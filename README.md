@@ -1,19 +1,14 @@
- 
 
-```markdown
-# R Programming Tasks with R-Studio and Jupyter Lab
-
-## Overview  
-This project covers essential tasks designed to help you get started with R programming, explore data analysis, and build advanced data visualizations and models using R. The tasks range from installing necessary tools to performing advanced analysis and generating reports.
 
 ---
 
-## Task 1: Getting Started
+## Task 1: Getting Started  
 
 ### Objective:  
 Set up and familiarize yourself with R-Studio and Jupyter Lab for R programming.
 
 ### Steps:  
+
 1. **Install R and R-Studio:**  
    - Download and install R from the [CRAN website](https://cran.r-project.org/).  
    - Download and install R-Studio from the [R-Studio website](https://posit.co/).  
@@ -30,17 +25,30 @@ Set up and familiarize yourself with R-Studio and Jupyter Lab for R programming.
      ```
 
 3. **Explore Interfaces:**  
-   - Familiarize yourself with R-Studio's interface, including the script editor, console, environment pane, and plots pane.  
-   - Launch Jupyter Lab, create a new notebook, and select R as the kernel.
+   - Familiarize yourself with R-Studio’s interface, including the following panels:  
+     - Script Editor  
+     - Console  
+     - Environment Pane  
+     - Plots Pane  
+   - Launch Jupyter Lab, create a new notebook, and select **R** as the kernel.
 
 4. **Test Basic Commands:**  
-   - Run the following commands in either R-Studio or Jupyter Lab to test the setup:
-     ```R
-     print("Hello, R!")  
-     sessionInfo()  
-     ```
+   Run the following commands in either R-Studio or Jupyter Lab to test the setup:  
+   ```R
+   print("Hello, R!")  
+   sessionInfo()  
+   ```
+
+
+
+```markdown
+# R Programming Tasks with R-Studio and Jupyter Lab
+
+## Overview  
+This project covers essential tasks designed to help you get started with R programming, explore data analysis, and build advanced data visualizations and models using R. The tasks range from installing necessary tools to performing advanced analysis and generating reports.
 
 ---
+
 
 ## Task 2: Working with Data Imports  
 
@@ -55,22 +63,22 @@ Import and load different types of data into R for analysis.
    ```  
 
 2. **Import Excel Files:**  
-   - Install and load the `readxl` package:  
-     ```R
-     install.packages("readxl")  
-     library(readxl)  
-     data_excel <- read_excel("path/to/your/file.xlsx", sheet = 1)  
-     head(data_excel)  
-     ```  
+   Install and load the `readxl` package:  
+   ```R
+   install.packages("readxl")  
+   library(readxl)  
+   data_excel <- read_excel("path/to/your/file.xlsx", sheet = 1)  
+   head(data_excel)  
+   ```  
 
 3. **Import JSON Data:**  
-   - Install and load the `jsonlite` package:  
-     ```R
-     install.packages("jsonlite")  
-     library(jsonlite)  
-     data_json <- fromJSON("https://api.example.com/data")  
-     str(data_json)  
-     ```  
+   Install and load the `jsonlite` package:  
+   ```R
+   install.packages("jsonlite")  
+   library(jsonlite)  
+   data_json <- fromJSON("https://api.example.com/data")  
+   str(data_json)  
+   ```  
 
 4. **Practice in Jupyter Lab:**  
    Repeat the data import steps in a Jupyter notebook using R as the kernel.
@@ -84,10 +92,14 @@ Clean and preprocess data using popular R libraries like `dplyr`.
 
 ### Steps and Example Codes:  
 1. **Handle Missing Values:**  
-   ```R
-   clean_data <- na.omit(data_csv)  # Remove rows with missing values  
-   clean_data <- data_csv %>% mutate(column_name = ifelse(is.na(column_name), 0, column_name))  # Replace NA with 0  
-   ```  
+   - Remove rows with missing values:  
+     ```R
+     clean_data <- na.omit(data_csv)  
+     ```  
+   - Replace missing values with 0:  
+     ```R
+     clean_data <- data_csv %>% mutate(column_name = ifelse(is.na(column_name), 0, column_name))  
+     ```  
 
 2. **Filter and Select Data:**  
    ```R
@@ -183,7 +195,7 @@ Generate reports and document analysis using R Markdown in R-Studio and Jupyter 
 ### Steps and Example Codes:  
 1. **Create R Markdown File in R-Studio:**  
    - Go to File > New File > R Markdown.  
-   - Add text, code chunks, and plots:
+   - Add text, code chunks, and plots:  
      ```R
      {r}  
      plot(data_csv$column1, data_csv$column2)  
@@ -200,13 +212,13 @@ Generate reports and document analysis using R Markdown in R-Studio and Jupyter 
 
 ---
 
-## Conclusion:  
+## Conclusion  
 By completing these tasks, you will gain hands-on experience in using R for data analysis, visualization, and advanced modeling, as well as generating reports to document your findings.
-
-```
-###author:
-@aenahabibf23@nutech.edu.pk
-@duakamalf23@nutech.edu.pk
 
 ---
 
+## Authors  
+- **Aena Habib** – [aenahabibf23@nutech.edu.pk](mailto:aenahabibf23@nutech.edu.pk)  
+- **Dua Kamal** – [duakamalf23@nutech.edu.pk](mailto:duakamalf23@nutech.edu.pk)  
+
+---
