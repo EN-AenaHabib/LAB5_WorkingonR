@@ -1,0 +1,52 @@
+---
+title: "Task 5: Advanced Data Analysis and Modeling in R"
+author: "Aena"
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+output: html_document
+---
+
+```{r all-in-one-chunk, echo=TRUE, message=FALSE, warning=FALSE}
+# Load Necessary Libraries
+required_packages <- c("caret", "stats", "ggplot2", "dplyr")
+
+install_if_missing <- function(pkg) {
+  if (!requireNamespace(pkg, quietly = TRUE)) {
+    install.packages(pkg, dependencies = TRUE)
+  }
+  library(pkg, character.only = TRUE)
+}
+
+lapply(required_packages, install_if_missing)
+
+# Use the iris dataset
+data_csv <- iris
+
+# Rename Columns for Clarity
+colnames(data_csv) <- c("Feature1", "Feature2", "Feature3", "Feature4", "Category")
+
+# Convert Necessary Columns to Numeric and Factor
+data_csv$Feature1 <- as.numeric(data_csv$Feature1)
+data_csv$Feature2 <- as.numeric(data_csv$Feature2)
+data_csv$Category <- as.factor(data_csv$Category)
+
+# Data Preview
+print(head(data_csv))
+
+# 1. Linear Regression Analysis
+cat("\n📊 **Linear Regression Analysis**\n")
+model <- lm(Feature1 ~ Feature2, data = data_csv)
+print(summary(model))
+
+# 2. Clustering Analysis (K-Means)
+cat("\n🔍 **Clustering Analysis (K-Means)**\n")
+clusters <- kmeans(data_csv[, c("Feature1", "Feature2")], centers = 3)
+data_csv$Cluster <- as.factor(clusters$cluster)
+print(head(data_csv))
+
+# 3. Machine Learning Model (Caret)
+cat("\n🤖 **Machine Learning Model (Caret)**\n")
+set.seed(123)  # Ensuring Reproducibility
+ml_model <- train(Feature2 ~ Feature1, 
+                  data = data_csv, method = "rf", 
+                  trControl = trainControl(method = "cv", number = 5))
+print(ml_model)

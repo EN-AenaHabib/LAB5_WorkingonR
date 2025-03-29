@@ -1,0 +1,38 @@
+```{r all-in-one-chunk, message=FALSE, warning=FALSE}
+# Set a CRAN mirror for installing packages
+options(repos = c(CRAN = "https://cloud.r-project.org"))
+
+# Install necessary packages if missing
+if (!require("readr")) install.packages("readr")
+if (!require("ggplot2")) install.packages("ggplot2")
+if (!require("dplyr")) install.packages("dplyr")
+
+# Load libraries
+library(readr)
+library(ggplot2)
+library(dplyr)
+
+# Read the CSV file (update the file path if necessary)
+file_path <- "C:/Users/HP/Downloads/working on R/Chocolate Sales.csv"
+data <- read_csv(file_path)
+
+# Display the column names to ensure "Date" and "Boxes Shipped" exist
+colnames(data)
+
+# Preview the first few rows to check the structure of the dataset
+head(data)
+
+# Rename columns if necessary (e.g., lowercase to title case)
+# Example: If the actual columns are named "date" and "boxes_shipped", rename them
+# data <- data %>% rename(Date = date, Boxes_Shipped = boxes_shipped)
+
+# Bar plot for Date vs Boxes Shipped (Ensure columns exist)
+if ("Date" %in% colnames(data) && "Boxes Shipped" %in% colnames(data)) {
+  ggplot(data, aes(x = Date, y = `Boxes Shipped`)) +
+    geom_bar(stat = "identity", fill = "steelblue") +
+    theme_minimal() +
+    labs(title = "Boxes Shipped Over Time", x = "Date", y = "Boxes Shipped") +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1))  # Rotate date labels for readability
+} else {
+  cat("Error: 'Date' or 'Boxes Shipped' columns not found in the dataset. Please check the column names.")
+}
