@@ -1,0 +1,1095 @@
+"","Sales.Person","Country","Product","Date","Amount","Boxes.Shipped","Total.Value"
+"1","Jehu Rudeforth","UK","Mint Chip Choco","04-Jan-22",NA,180,NA
+"2","Van Tuxwell","India","85% Dark Bars","01-Aug-22",NA,94,NA
+"3","Gigi Bohling","India","Peanut Butter Cubes","07-Jul-22",NA,91,NA
+"4","Jan Morforth","Australia","Peanut Butter Cubes","27-Apr-22",NA,342,NA
+"5","Jehu Rudeforth","UK","Peanut Butter Cubes","24-Feb-22",NA,184,NA
+"6","Van Tuxwell","India","Smooth Sliky Salty","06-Jun-22",NA,38,NA
+"7","Oby Sorrel","UK","99% Dark & Pure","25-Jan-22",NA,176,NA
+"8","Gunar Cockshoot","Australia","After Nines","24-Mar-22",NA,73,NA
+"9","Jehu Rudeforth","New Zealand","50% Dark Bites","20-Apr-22",NA,59,NA
+"10","Brien Boise","Australia","99% Dark & Pure","04-Jul-22",NA,102,NA
+"11","Rafaelita Blaksland","UK","Smooth Sliky Salty","13-Jan-22",NA,62,NA
+"12","Barr Faughny","USA","Orange Choco","10-Mar-22",NA,11,NA
+"13","Mallorie Waber","Canada","Eclairs","13-Jan-22",NA,286,NA
+"14","Karlen McCaffrey","New Zealand","Drinking Coco","28-Jul-22",168,156,26208
+"15","Marney O'Breen","New Zealand","Peanut Butter Cubes","03-Aug-22",NA,173,NA
+"16","Beverie Moffet","Australia","Organic Choco Syrup","26-Jan-22",NA,356,NA
+"17","Van Tuxwell","Canada","Organic Choco Syrup","14-Feb-22",NA,42,NA
+"18","Roddy Speechley","USA","Smooth Sliky Salty","05-Apr-22",NA,140,NA
+"19","Beverie Moffet","Canada","Milk Bars","16-Feb-22",NA,250,NA
+"20","Curtice Advani","UK","85% Dark Bars","08-Jun-22",NA,172,NA
+"21","Brien Boise","Australia","Eclairs","27-Jun-22",NA,88,NA
+"22","Gunar Cockshoot","USA","Spicy Special Slims","17-Feb-22",NA,157,NA
+"23","Marney O'Breen","USA","After Nines","30-May-22",NA,163,NA
+"24","Husein Augar","UK","Drinking Coco","14-Mar-22",NA,113,NA
+"25","Kaine Padly","Australia","Eclairs","28-Feb-22",NA,115,NA
+"26","Karlen McCaffrey","India","Fruit & Nut Bars","26-Jan-22",168,321,53928
+"27","Roddy Speechley","Canada","Spicy Special Slims","09-Feb-22",NA,186,NA
+"28","Husein Augar","USA","Eclairs","07-Jul-22",NA,112,NA
+"29","Dennison Crosswaite","New Zealand","White Choc","05-Jul-22",NA,151,NA
+"30","Dennison Crosswaite","New Zealand","Manuka Honey Choco","15-Jun-22",NA,301,NA
+"31","Van Tuxwell","New Zealand","85% Dark Bars","24-May-22",NA,121,NA
+"32","Rafaelita Blaksland","UK","99% Dark & Pure","29-Jun-22",NA,150,NA
+"33","Wilone O'Kielt","Australia","Manuka Honey Choco","11-May-22",NA,94,NA
+"34","Karlen McCaffrey","UK","Almond Choco","30-Jun-22",NA,133,NA
+"35","Andria Kimpton","Canada","After Nines","11-May-22",NA,70,NA
+"36","Roddy Speechley","USA","Manuka Honey Choco","22-Jul-22",NA,315,NA
+"37","Andria Kimpton","UK","50% Dark Bites","24-Aug-22",NA,314,NA
+"38","Kelci Walkden","New Zealand","After Nines","07-Jul-22",147,72,10584
+"39","Camilla Castle","Australia","85% Dark Bars","19-May-22",NA,14,NA
+"40","Karlen McCaffrey","India","Manuka Honey Choco","04-Jul-22",NA,581,NA
+"41","Kelci Walkden","USA","After Nines","02-Jun-22",938,16,15008
+"42","Karlen McCaffrey","USA","Raspberry Choco","15-Apr-22",NA,354,NA
+"43","Mallorie Waber","Canada","Choco Coated Almonds","11-Jul-22",NA,241,NA
+"44","Andria Kimpton","India","Spicy Special Slims","23-Feb-22",NA,142,NA
+"45","Madelene Upcott","Canada","Almond Choco","22-Aug-22",NA,102,NA
+"46","Kaine Padly","USA","Peanut Butter Cubes","16-Feb-22",NA,188,NA
+"47","Van Tuxwell","USA","50% Dark Bites","13-Jan-22",NA,160,NA
+"48","Curtice Advani","Australia","Milk Bars","14-Feb-22",NA,18,NA
+"49","Roddy Speechley","India","Eclairs","10-Jun-22",NA,303,NA
+"50","Curtice Advani","India","Fruit & Nut Bars","07-Jul-22",NA,176,NA
+"51","Curtice Advani","Canada","Almond Choco","24-Mar-22",NA,70,NA
+"52","Brien Boise","Australia","Fruit & Nut Bars","06-Jun-22",NA,23,NA
+"53","Dotty Strutley","Australia","Drinking Coco","19-Jul-22",91,135,12285
+"54","Beverie Moffet","USA","Raspberry Choco","19-Apr-22",NA,83,NA
+"55","Marney O'Breen","India","85% Dark Bars","19-Jul-22",NA,179,NA
+"56","Jehu Rudeforth","Canada","Drinking Coco","15-Jul-22",441,24,10584
+"57","Ches Bonnell","New Zealand","Spicy Special Slims","14-Feb-22",NA,18,NA
+"58","Brien Boise","Canada","99% Dark & Pure","18-May-22",NA,416,NA
+"59","Barr Faughny","Australia","Fruit & Nut Bars","30-Jun-22",NA,55,NA
+"60","Andria Kimpton","Australia","50% Dark Bites","02-Jun-22",NA,227,NA
+"61","Andria Kimpton","Australia","Drinking Coco","28-Jun-22",NA,48,NA
+"62","Marney O'Breen","Australia","Organic Choco Syrup","16-May-22",273,174,47502
+"63","Kelci Walkden","Canada","Baker's Choco Chips","26-May-22",NA,302,NA
+"64","Karlen McCaffrey","India","Almond Choco","06-Jul-22",NA,149,NA
+"65","Oby Sorrel","India","99% Dark & Pure","27-May-22",NA,11,NA
+"66","Wilone O'Kielt","Australia","Caramel Stuffed Bars","14-Apr-22",NA,11,NA
+"67","Van Tuxwell","Australia","Organic Choco Syrup","10-Aug-22",NA,14,NA
+"68","Camilla Castle","India","50% Dark Bites","04-Jul-22",NA,411,NA
+"69","Oby Sorrel","India","Organic Choco Syrup","08-Jul-22",NA,56,NA
+"70","Jan Morforth","USA","Peanut Butter Cubes","22-Jul-22",NA,102,NA
+"71","Gigi Bohling","USA","Choco Coated Almonds","02-Mar-22",NA,103,NA
+"72","Gigi Bohling","UK","Almond Choco","10-Jan-22",NA,9,NA
+"73","Jehu Rudeforth","New Zealand","White Choc","11-Mar-22",NA,241,NA
+"74","Andria Kimpton","New Zealand","Peanut Butter Cubes","20-Jun-22",959,265,254135
+"75","Van Tuxwell","UK","Organic Choco Syrup","26-Aug-22",NA,214,NA
+"76","Roddy Speechley","Canada","Milk Bars","13-Jul-22",609,32,19488
+"77","Camilla Castle","USA","Spicy Special Slims","11-Feb-22",NA,244,NA
+"78","Marney O'Breen","USA","Orange Choco","27-Jan-22",NA,181,NA
+"79","Van Tuxwell","UK","99% Dark & Pure","31-Jan-22",NA,137,NA
+"80","Camilla Castle","USA","White Choc","18-Aug-22",NA,24,NA
+"81","Andria Kimpton","USA","Raspberry Choco","30-Jun-22",NA,21,NA
+"82","Dotty Strutley","Australia","Fruit & Nut Bars","23-Aug-22",280,311,87080
+"83","Brien Boise","New Zealand","Mint Chip Choco","01-Aug-22",63,181,11403
+"84","Roddy Speechley","New Zealand","After Nines","25-May-22",NA,10,NA
+"85","Roddy Speechley","Canada","Organic Choco Syrup","10-Jan-22",NA,82,NA
+"86","Dennison Crosswaite","Australia","70% Dark Bites","07-Feb-22",NA,108,NA
+"87","Karlen McCaffrey","USA","Orange Choco","12-May-22",NA,401,NA
+"88","Madelene Upcott","Australia","Spicy Special Slims","07-Mar-22",NA,408,NA
+"89","Dennison Crosswaite","Australia","85% Dark Bars","05-Apr-22",NA,420,NA
+"90","Andria Kimpton","Canada","Caramel Stuffed Bars","03-Jan-22",NA,348,NA
+"91","Dennison Crosswaite","UK","Eclairs","24-Mar-22",NA,270,NA
+"92","Madelene Upcott","India","Raspberry Choco","07-Jul-22",NA,9,NA
+"93","Van Tuxwell","USA","After Nines","26-Jul-22",630,264,166320
+"94","Wilone O'Kielt","Australia","Organic Choco Syrup","07-Jul-22",NA,111,NA
+"95","Karlen McCaffrey","Canada","50% Dark Bites","15-Jul-22",NA,65,NA
+"96","Roddy Speechley","New Zealand","Orange Choco","01-Apr-22",49,97,4753
+"97","Beverie Moffet","Australia","Eclairs","20-Jun-22",NA,6,NA
+"98","Kelci Walkden","UK","Fruit & Nut Bars","29-Jun-22",NA,482,NA
+"99","Marney O'Breen","USA","50% Dark Bites","15-Jun-22",NA,106,NA
+"100","Husein Augar","USA","After Nines","08-Apr-22",NA,180,NA
+"101","Dennison Crosswaite","Australia","Raspberry Choco","14-Mar-22",NA,31,NA
+"102","Andria Kimpton","USA","Fruit & Nut Bars","15-Jul-22",NA,359,NA
+"103","Kelci Walkden","India","Eclairs","19-Apr-22",NA,80,NA
+"104","Marney O'Breen","USA","99% Dark & Pure","28-Mar-22",NA,296,NA
+"105","Brien Boise","Canada","Spicy Special Slims","04-Mar-22",NA,101,NA
+"106","Karlen McCaffrey","New Zealand","70% Dark Bites","02-Aug-22",126,40,5040
+"107","Husein Augar","UK","Spicy Special Slims","25-Aug-22",NA,42,NA
+"108","Marney O'Breen","USA","Almond Choco","25-Feb-22",NA,167,NA
+"109","Kelci Walkden","India","Orange Choco","07-Jun-22",NA,138,NA
+"110","Jan Morforth","India","Spicy Special Slims","12-Apr-22",NA,520,NA
+"111","Ches Bonnell","India","Spicy Special Slims","06-Jul-22",NA,94,NA
+"112","Kelci Walkden","UK","Smooth Sliky Salty","19-Jan-22",NA,175,NA
+"113","Madelene Upcott","Australia","Fruit & Nut Bars","05-Jan-22",NA,92,NA
+"114","Madelene Upcott","Canada","70% Dark Bites","24-Jan-22",NA,141,NA
+"115","Wilone O'Kielt","Australia","Drinking Coco","06-Apr-22",623,283,176309
+"116","Gunar Cockshoot","Australia","Fruit & Nut Bars","15-Jun-22",NA,21,NA
+"117","Gigi Bohling","Canada","Baker's Choco Chips","28-Jan-22",NA,47,NA
+"118","Kelci Walkden","India","Caramel Stuffed Bars","16-Mar-22",476,125,59500
+"119","Rafaelita Blaksland","Australia","Drinking Coco","21-Feb-22",NA,396,NA
+"120","Kelci Walkden","USA","Manuka Honey Choco","16-Feb-22",NA,87,NA
+"121","Jehu Rudeforth","Canada","Spicy Special Slims","13-Jan-22",NA,27,NA
+"122","Kelci Walkden","Australia","Eclairs","23-Mar-22",NA,547,NA
+"123","Curtice Advani","Canada","Spicy Special Slims","16-Jun-22",854,118,100772
+"124","Oby Sorrel","India","Raspberry Choco","14-Apr-22",NA,46,NA
+"125","Kelci Walkden","UK","Eclairs","25-Jan-22",NA,57,NA
+"126","Jan Morforth","India","Almond Choco","11-Mar-22",NA,22,NA
+"127","Dotty Strutley","UK","Almond Choco","28-Jul-22",NA,96,NA
+"128","Marney O'Breen","New Zealand","After Nines","09-Mar-22",NA,44,NA
+"129","Husein Augar","Australia","Orange Choco","28-Jun-22",NA,188,NA
+"130","Marney O'Breen","Australia","Milk Bars","28-Jul-22",NA,387,NA
+"131","Kelci Walkden","Canada","99% Dark & Pure","15-Aug-22",NA,50,NA
+"132","Kaine Padly","Australia","Manuka Honey Choco","12-Jan-22",NA,264,NA
+"133","Beverie Moffet","New Zealand","White Choc","24-Mar-22",NA,7,NA
+"134","Van Tuxwell","UK","Milk Bars","25-Jul-22",NA,90,NA
+"135","Oby Sorrel","Canada","99% Dark & Pure","01-Aug-22",NA,403,NA
+"136","Van Tuxwell","India","Organic Choco Syrup","16-May-22",NA,174,NA
+"137","Roddy Speechley","India","Smooth Sliky Salty","10-Aug-22",NA,140,NA
+"138","Jan Morforth","India","Eclairs","05-Jan-22",NA,27,NA
+"139","Ches Bonnell","UK","Smooth Sliky Salty","11-Jul-22",NA,110,NA
+"140","Wilone O'Kielt","USA","After Nines","25-Apr-22",392,30,11760
+"141","Gigi Bohling","New Zealand","Fruit & Nut Bars","04-Apr-22",NA,121,NA
+"142","Barr Faughny","USA","Raspberry Choco","12-Apr-22",NA,101,NA
+"143","Wilone O'Kielt","New Zealand","85% Dark Bars","02-Aug-22",NA,117,NA
+"144","Gigi Bohling","New Zealand","Manuka Honey Choco","28-Jun-22",NA,272,NA
+"145","Ches Bonnell","Australia","Eclairs","05-Jul-22",NA,128,NA
+"146","Rafaelita Blaksland","New Zealand","Choco Coated Almonds","07-Jun-22",NA,45,NA
+"147","Brien Boise","New Zealand","Smooth Sliky Salty","18-Jan-22",NA,27,NA
+"148","Brien Boise","Australia","Baker's Choco Chips","04-Jan-22",NA,212,NA
+"149","Dennison Crosswaite","Australia","99% Dark & Pure","31-Jan-22",NA,18,NA
+"150","Kelci Walkden","India","Almond Choco","14-Mar-22",NA,149,NA
+"151","Camilla Castle","Australia","70% Dark Bites","29-Apr-22",NA,477,NA
+"152","Oby Sorrel","India","Smooth Sliky Salty","07-Feb-22",NA,108,NA
+"153","Kaine Padly","UK","Organic Choco Syrup","31-Mar-22",NA,178,NA
+"154","Marney O'Breen","India","Caramel Stuffed Bars","16-Mar-22",NA,81,NA
+"155","Karlen McCaffrey","UK","Eclairs","25-Jan-22",NA,196,NA
+"156","Van Tuxwell","India","Baker's Choco Chips","20-Jun-22",NA,447,NA
+"157","Gigi Bohling","UK","After Nines","29-Mar-22",NA,175,NA
+"158","Curtice Advani","Australia","Orange Choco","12-Jul-22",854,136,116144
+"159","Jehu Rudeforth","Canada","Smooth Sliky Salty","11-Jul-22",NA,138,NA
+"160","Karlen McCaffrey","Canada","Smooth Sliky Salty","19-Jan-22",NA,184,NA
+"161","Andria Kimpton","USA","85% Dark Bars","05-Apr-22",NA,82,NA
+"162","Jehu Rudeforth","Canada","Milk Bars","21-Feb-22",NA,12,NA
+"163","Rafaelita Blaksland","New Zealand","Caramel Stuffed Bars","20-May-22",NA,14,NA
+"164","Mallorie Waber","Australia","Milk Bars","29-Jul-22",NA,104,NA
+"165","Barr Faughny","USA","Fruit & Nut Bars","28-Jan-22",NA,46,NA
+"166","Marney O'Breen","UK","Caramel Stuffed Bars","19-Jul-22",NA,112,NA
+"167","Mallorie Waber","New Zealand","Manuka Honey Choco","13-Apr-22",NA,11,NA
+"168","Roddy Speechley","India","Peanut Butter Cubes","11-Feb-22",NA,21,NA
+"169","Roddy Speechley","New Zealand","Milk Bars","02-Mar-22",NA,116,NA
+"170","Ches Bonnell","Australia","White Choc","02-Mar-22",NA,202,NA
+"171","Van Tuxwell","USA","99% Dark & Pure","28-Jul-22",NA,6,NA
+"172","Kelci Walkden","India","After Nines","07-Jan-22",NA,520,NA
+"173","Brien Boise","UK","White Choc","12-Apr-22",NA,167,NA
+"174","Van Tuxwell","Canada","Almond Choco","27-Jun-22",NA,72,NA
+"175","Jehu Rudeforth","Australia","50% Dark Bites","14-Jan-22",NA,418,NA
+"176","Karlen McCaffrey","UK","Baker's Choco Chips","07-Feb-22",NA,389,NA
+"177","Jehu Rudeforth","Australia","Orange Choco","23-Mar-22",NA,26,NA
+"178","Marney O'Breen","India","Peanut Butter Cubes","10-Jan-22",NA,146,NA
+"179","Oby Sorrel","UK","Choco Coated Almonds","17-Mar-22",NA,41,NA
+"180","Gigi Bohling","USA","Spicy Special Slims","21-Jan-22",NA,54,NA
+"181","Barr Faughny","Australia","White Choc","04-Jul-22",NA,370,NA
+"182","Kaine Padly","Canada","Peanut Butter Cubes","04-Jul-22",NA,176,NA
+"183","Dotty Strutley","USA","Manuka Honey Choco","10-Aug-22",273,210,57330
+"184","Dennison Crosswaite","Australia","50% Dark Bites","01-Apr-22",NA,12,NA
+"185","Gigi Bohling","India","Raspberry Choco","22-Feb-22",NA,159,NA
+"186","Camilla Castle","UK","White Choc","03-Jan-22",NA,187,NA
+"187","Karlen McCaffrey","India","Drinking Coco","31-May-22",NA,233,NA
+"188","Dotty Strutley","UK","99% Dark & Pure","03-Jan-22",NA,282,NA
+"189","Husein Augar","New Zealand","Caramel Stuffed Bars","27-Jan-22",497,475,236075
+"190","Barr Faughny","UK","50% Dark Bites","28-Jan-22",581,65,37765
+"191","Curtice Advani","Australia","Organic Choco Syrup","28-Jun-22",NA,311,NA
+"192","Husein Augar","UK","Choco Coated Almonds","02-Mar-22",NA,43,NA
+"193","Wilone O'Kielt","Australia","After Nines","27-May-22",NA,26,NA
+"194","Dennison Crosswaite","USA","Almond Choco","30-Jun-22",NA,84,NA
+"195","Barr Faughny","Canada","Peanut Butter Cubes","07-Jun-22",NA,78,NA
+"196","Kaine Padly","USA","70% Dark Bites","12-May-22",NA,100,NA
+"197","Barr Faughny","New Zealand","Raspberry Choco","29-Jul-22",NA,66,NA
+"198","Dennison Crosswaite","UK","White Choc","03-Aug-22",NA,265,NA
+"199","Barr Faughny","India","Baker's Choco Chips","18-Aug-22",NA,141,NA
+"200","Van Tuxwell","New Zealand","Smooth Sliky Salty","14-Jun-22",NA,42,NA
+"201","Beverie Moffet","UK","White Choc","30-Jun-22",NA,76,NA
+"202","Camilla Castle","New Zealand","Mint Chip Choco","13-Jun-22",NA,190,NA
+"203","Ches Bonnell","UK","Orange Choco","27-Apr-22",NA,54,NA
+"204","Jan Morforth","Australia","White Choc","27-Jul-22",NA,32,NA
+"205","Mallorie Waber","Canada","85% Dark Bars","20-Apr-22",NA,424,NA
+"206","Rafaelita Blaksland","India","Spicy Special Slims","04-Jan-22",NA,134,NA
+"207","Ches Bonnell","Australia","Mint Chip Choco","21-Feb-22",NA,92,NA
+"208","Karlen McCaffrey","Australia","White Choc","05-Jan-22",NA,48,NA
+"209","Beverie Moffet","India","Drinking Coco","15-Jul-22",NA,46,NA
+"210","Brien Boise","Australia","Choco Coated Almonds","25-May-22",NA,62,NA
+"211","Karlen McCaffrey","Canada","Eclairs","20-Apr-22",NA,358,NA
+"212","Gigi Bohling","USA","99% Dark & Pure","02-Jun-22",784,249,195216
+"213","Marney O'Breen","UK","Smooth Sliky Salty","13-May-22",NA,88,NA
+"214","Beverie Moffet","New Zealand","Baker's Choco Chips","03-Aug-22",NA,144,NA
+"215","Beverie Moffet","Australia","Milk Bars","25-May-22",735,390,286650
+"216","Van Tuxwell","UK","Raspberry Choco","16-Mar-22",NA,79,NA
+"217","Jan Morforth","Australia","Orange Choco","04-Jul-22",NA,122,NA
+"218","Jehu Rudeforth","India","50% Dark Bites","05-Jul-22",NA,135,NA
+"219","Madelene Upcott","USA","After Nines","15-Mar-22",NA,430,NA
+"220","Barr Faughny","UK","Raspberry Choco","22-Aug-22",NA,69,NA
+"221","Ches Bonnell","Australia","70% Dark Bites","12-Jan-22",NA,125,NA
+"222","Marney O'Breen","UK","Baker's Choco Chips","10-Jun-22",252,154,38808
+"223","Kaine Padly","Australia","Peanut Butter Cubes","25-Mar-22",NA,286,NA
+"224","Rafaelita Blaksland","India","Almond Choco","27-Jul-22",NA,99,NA
+"225","Husein Augar","UK","Caramel Stuffed Bars","15-Apr-22",NA,433,NA
+"226","Roddy Speechley","India","Orange Choco","27-Jun-22",NA,19,NA
+"227","Jehu Rudeforth","UK","70% Dark Bites","14-Apr-22",NA,258,NA
+"228","Husein Augar","Australia","Manuka Honey Choco","15-Mar-22",NA,92,NA
+"229","Madelene Upcott","USA","Eclairs","18-Mar-22",NA,200,NA
+"230","Brien Boise","India","Eclairs","29-Apr-22",NA,61,NA
+"231","Mallorie Waber","New Zealand","White Choc","25-Feb-22",NA,246,NA
+"232","Husein Augar","USA","Milk Bars","02-Mar-22",854,56,47824
+"233","Van Tuxwell","Australia","Milk Bars","20-Jun-22",NA,87,NA
+"234","Beverie Moffet","Canada","White Choc","15-Jul-22",NA,173,NA
+"235","Dotty Strutley","Australia","50% Dark Bites","12-May-22",NA,252,NA
+"236","Mallorie Waber","New Zealand","Organic Choco Syrup","01-Jul-22",NA,256,NA
+"237","Husein Augar","USA","85% Dark Bars","08-Aug-22",378,54,20412
+"238","Madelene Upcott","Australia","50% Dark Bites","25-Jul-22",NA,6,NA
+"239","Wilone O'Kielt","UK","Drinking Coco","18-May-22",NA,55,NA
+"240","Camilla Castle","India","Peanut Butter Cubes","15-Jul-22",NA,277,NA
+"241","Curtice Advani","India","70% Dark Bites","05-Jul-22",NA,44,NA
+"242","Mallorie Waber","USA","Manuka Honey Choco","04-Jul-22",NA,96,NA
+"243","Dotty Strutley","UK","70% Dark Bites","20-Jun-22",NA,216,NA
+"244","Gunar Cockshoot","Australia","Almond Choco","25-Jan-22",NA,424,NA
+"245","Kaine Padly","New Zealand","Spicy Special Slims","01-Jul-22",NA,37,NA
+"246","Gigi Bohling","USA","50% Dark Bites","13-Apr-22",NA,59,NA
+"247","Beverie Moffet","UK","Smooth Sliky Salty","04-May-22",NA,76,NA
+"248","Beverie Moffet","Australia","Baker's Choco Chips","04-Aug-22",NA,109,NA
+"249","Beverie Moffet","India","70% Dark Bites","01-Jun-22",448,146,65408
+"250","Jehu Rudeforth","UK","Choco Coated Almonds","22-Apr-22",NA,185,NA
+"251","Kaine Padly","USA","50% Dark Bites","03-Aug-22",70,27,1890
+"252","Ches Bonnell","USA","Orange Choco","10-Jun-22",NA,69,NA
+"253","Gunar Cockshoot","UK","Manuka Honey Choco","27-Jun-22",NA,46,NA
+"254","Marney O'Breen","Australia","Smooth Sliky Salty","03-Jan-22",NA,170,NA
+"255","Marney O'Breen","India","After Nines","11-Jul-22",NA,179,NA
+"256","Ches Bonnell","New Zealand","Milk Bars","17-Aug-22",NA,126,NA
+"257","Rafaelita Blaksland","USA","Fruit & Nut Bars","18-Jan-22",NA,65,NA
+"258","Ches Bonnell","India","Organic Choco Syrup","08-Mar-22",NA,99,NA
+"259","Mallorie Waber","Australia","Orange Choco","07-Mar-22",NA,275,NA
+"260","Husein Augar","India","70% Dark Bites","09-May-22",NA,157,NA
+"261","Barr Faughny","New Zealand","85% Dark Bars","23-May-22",NA,157,NA
+"262","Madelene Upcott","UK","Caramel Stuffed Bars","15-Apr-22",161,145,23345
+"263","Gigi Bohling","Australia","Drinking Coco","27-Jul-22",NA,139,NA
+"264","Marney O'Breen","Canada","Choco Coated Almonds","22-Aug-22",NA,406,NA
+"265","Ches Bonnell","USA","70% Dark Bites","11-May-22",NA,122,NA
+"266","Madelene Upcott","India","Organic Choco Syrup","26-Jan-22",NA,38,NA
+"267","Barr Faughny","USA","50% Dark Bites","14-Apr-22",NA,117,NA
+"268","Dennison Crosswaite","New Zealand","Mint Chip Choco","05-Apr-22",NA,417,NA
+"269","Marney O'Breen","New Zealand","Smooth Sliky Salty","14-Jun-22",NA,57,NA
+"270","Brien Boise","Canada","Almond Choco","13-Apr-22",NA,125,NA
+"271","Beverie Moffet","Australia","White Choc","27-Jun-22",NA,166,NA
+"272","Dotty Strutley","Australia","Eclairs","26-Jan-22",NA,3,NA
+"273","Barr Faughny","UK","White Choc","05-Jul-22",NA,72,NA
+"274","Beverie Moffet","Canada","Baker's Choco Chips","11-Jan-22",NA,95,NA
+"275","Kelci Walkden","USA","White Choc","07-Mar-22",NA,22,NA
+"276","Kaine Padly","Canada","50% Dark Bites","04-Mar-22",NA,100,NA
+"277","Karlen McCaffrey","Canada","Organic Choco Syrup","15-Jul-22",NA,312,NA
+"278","Kaine Padly","UK","Peanut Butter Cubes","11-May-22",NA,86,NA
+"279","Karlen McCaffrey","USA","Milk Bars","27-Jan-22",NA,7,NA
+"280","Karlen McCaffrey","India","Orange Choco","27-Jun-22",NA,149,NA
+"281","Ches Bonnell","India","Smooth Sliky Salty","03-Aug-22",NA,18,NA
+"282","Wilone O'Kielt","New Zealand","Mint Chip Choco","19-Aug-22",NA,242,NA
+"283","Wilone O'Kielt","Australia","Fruit & Nut Bars","15-Jun-22",392,102,39984
+"284","Dennison Crosswaite","UK","Peanut Butter Cubes","07-Feb-22",NA,158,NA
+"285","Karlen McCaffrey","Australia","Almond Choco","08-Jul-22",NA,128,NA
+"286","Dennison Crosswaite","India","Milk Bars","21-Apr-22",NA,96,NA
+"287","Ches Bonnell","UK","Mint Chip Choco","08-Apr-22",NA,209,NA
+"288","Husein Augar","Australia","50% Dark Bites","19-Aug-22",NA,52,NA
+"289","Jan Morforth","India","Fruit & Nut Bars","04-May-22",NA,55,NA
+"290","Mallorie Waber","USA","85% Dark Bars","11-May-22",NA,108,NA
+"291","Mallorie Waber","USA","Eclairs","22-Mar-22",NA,51,NA
+"292","Dennison Crosswaite","Canada","Spicy Special Slims","10-Aug-22",NA,216,NA
+"293","Dennison Crosswaite","USA","Fruit & Nut Bars","04-May-22",NA,318,NA
+"294","Kelci Walkden","USA","99% Dark & Pure","18-Aug-22",NA,238,NA
+"295","Dotty Strutley","Canada","Raspberry Choco","03-Aug-22",NA,238,NA
+"296","Marney O'Breen","New Zealand","Milk Bars","14-Jan-22",NA,315,NA
+"297","Madelene Upcott","Australia","Choco Coated Almonds","08-Apr-22",NA,72,NA
+"298","Kelci Walkden","UK","Orange Choco","01-Aug-22",NA,3,NA
+"299","Dennison Crosswaite","Canada","Eclairs","15-Mar-22",455,45,20475
+"300","Karlen McCaffrey","India","Mint Chip Choco","15-Jul-22",NA,184,NA
+"301","Barr Faughny","New Zealand","Almond Choco","13-Jan-22",NA,127,NA
+"302","Mallorie Waber","Australia","85% Dark Bars","26-Aug-22",NA,53,NA
+"303","Ches Bonnell","Canada","Eclairs","10-Jan-22",NA,172,NA
+"304","Gigi Bohling","Australia","White Choc","11-May-22",NA,87,NA
+"305","Beverie Moffet","New Zealand","85% Dark Bars","30-Aug-22",NA,22,NA
+"306","Kaine Padly","USA","Caramel Stuffed Bars","21-Jul-22",NA,122,NA
+"307","Mallorie Waber","Australia","Almond Choco","01-Aug-22",NA,125,NA
+"308","Brien Boise","Canada","85% Dark Bars","17-Feb-22",NA,259,NA
+"309","Brien Boise","Australia","Drinking Coco","27-Jul-22",NA,156,NA
+"310","Dotty Strutley","USA","Orange Choco","23-Feb-22",NA,107,NA
+"311","Rafaelita Blaksland","Australia","50% Dark Bites","22-Mar-22",NA,40,NA
+"312","Dennison Crosswaite","India","99% Dark & Pure","23-Jun-22",NA,311,NA
+"313","Curtice Advani","UK","White Choc","01-Feb-22",NA,73,NA
+"314","Kelci Walkden","Australia","After Nines","02-Mar-22",NA,288,NA
+"315","Gigi Bohling","UK","Fruit & Nut Bars","06-Apr-22",NA,86,NA
+"316","Gunar Cockshoot","Australia","Raspberry Choco","17-Mar-22",602,72,43344
+"317","Curtice Advani","UK","Fruit & Nut Bars","24-Jun-22",NA,136,NA
+"318","Barr Faughny","Canada","50% Dark Bites","19-Jul-22",NA,303,NA
+"319","Curtice Advani","USA","Spicy Special Slims","11-Jul-22",NA,264,NA
+"320","Brien Boise","India","Almond Choco","13-Jan-22",NA,218,NA
+"321","Oby Sorrel","New Zealand","Smooth Sliky Salty","07-Jul-22",NA,60,NA
+"322","Jan Morforth","India","85% Dark Bars","25-May-22",NA,418,NA
+"323","Marney O'Breen","India","Fruit & Nut Bars","13-Apr-22",NA,151,NA
+"324","Andria Kimpton","New Zealand","50% Dark Bites","02-Mar-22",NA,202,NA
+"325","Gunar Cockshoot","Canada","Raspberry Choco","23-Jun-22",NA,126,NA
+"326","Kelci Walkden","USA","Drinking Coco","26-Jul-22",NA,160,NA
+"327","Van Tuxwell","Canada","White Choc","22-Mar-22",420,3,1260
+"328","Rafaelita Blaksland","USA","Baker's Choco Chips","09-Jun-22",NA,58,NA
+"329","Van Tuxwell","Australia","Caramel Stuffed Bars","17-May-22",NA,59,NA
+"330","Ches Bonnell","New Zealand","Peanut Butter Cubes","04-Mar-22",889,273,242697
+"331","Kelci Walkden","Canada","Milk Bars","07-Jul-22",NA,28,NA
+"332","Dennison Crosswaite","Canada","Choco Coated Almonds","13-Jan-22",NA,118,NA
+"333","Curtice Advani","Australia","Almond Choco","13-Jul-22",NA,75,NA
+"334","Madelene Upcott","Australia","85% Dark Bars","16-Jun-22",NA,329,NA
+"335","Gigi Bohling","UK","50% Dark Bites","18-Jul-22",NA,69,NA
+"336","Ches Bonnell","UK","Manuka Honey Choco","30-May-22",NA,395,NA
+"337","Gigi Bohling","UK","70% Dark Bites","21-Jun-22",840,81,68040
+"338","Jehu Rudeforth","Australia","Peanut Butter Cubes","24-Jun-22",NA,38,NA
+"339","Marney O'Breen","India","Eclairs","13-Jan-22",NA,96,NA
+"340","Curtice Advani","Canada","Fruit & Nut Bars","04-Apr-22",NA,195,NA
+"341","Kaine Padly","UK","Smooth Sliky Salty","08-Jun-22",NA,554,NA
+"342","Karlen McCaffrey","Canada","Spicy Special Slims","02-Aug-22",NA,47,NA
+"343","Kelci Walkden","USA","Organic Choco Syrup","21-Jul-22",NA,152,NA
+"344","Curtice Advani","India","Spicy Special Slims","20-Jun-22",161,134,21574
+"345","Roddy Speechley","India","After Nines","22-Jun-22",NA,112,NA
+"346","Camilla Castle","Australia","Caramel Stuffed Bars","02-May-22",NA,16,NA
+"347","Curtice Advani","Australia","99% Dark & Pure","07-Jan-22",NA,84,NA
+"348","Mallorie Waber","UK","50% Dark Bites","21-Feb-22",NA,99,NA
+"349","Ches Bonnell","Canada","Baker's Choco Chips","21-Mar-22",NA,371,NA
+"350","Van Tuxwell","UK","Drinking Coco","04-Apr-22",NA,136,NA
+"351","Gunar Cockshoot","Canada","Fruit & Nut Bars","24-Mar-22",NA,203,NA
+"352","Gunar Cockshoot","New Zealand","Spicy Special Slims","28-Jun-22",NA,183,NA
+"353","Gunar Cockshoot","Australia","Drinking Coco","14-Jan-22",NA,195,NA
+"354","Karlen McCaffrey","New Zealand","Fruit & Nut Bars","07-Feb-22",NA,135,NA
+"355","Dennison Crosswaite","New Zealand","Drinking Coco","11-Jan-22",NA,197,NA
+"356","Jehu Rudeforth","India","99% Dark & Pure","25-Feb-22",NA,242,NA
+"357","Dotty Strutley","Australia","Mint Chip Choco","01-Aug-22",NA,25,NA
+"358","Roddy Speechley","Australia","Mint Chip Choco","05-May-22",NA,252,NA
+"359","Madelene Upcott","New Zealand","Raspberry Choco","18-May-22",NA,415,NA
+"360","Dotty Strutley","New Zealand","Choco Coated Almonds","04-Jan-22",NA,348,NA
+"361","Roddy Speechley","New Zealand","50% Dark Bites","09-May-22",NA,211,NA
+"362","Rafaelita Blaksland","India","Smooth Sliky Salty","06-May-22",NA,81,NA
+"363","Husein Augar","UK","White Choc","13-Jan-22",NA,145,NA
+"364","Roddy Speechley","Australia","Almond Choco","24-Jun-22",NA,74,NA
+"365","Van Tuxwell","USA","Caramel Stuffed Bars","14-Feb-22",987,21,20727
+"366","Camilla Castle","Australia","99% Dark & Pure","18-Jan-22",NA,101,NA
+"367","Kaine Padly","India","Milk Bars","02-May-22",NA,91,NA
+"368","Ches Bonnell","Australia","Smooth Sliky Salty","16-May-22",NA,54,NA
+"369","Mallorie Waber","USA","Almond Choco","28-Jan-22",NA,368,NA
+"370","Kaine Padly","Canada","99% Dark & Pure","24-Jun-22",NA,409,NA
+"371","Oby Sorrel","UK","After Nines","18-Jul-22",NA,104,NA
+"372","Gunar Cockshoot","UK","Eclairs","13-Apr-22",NA,164,NA
+"373","Dotty Strutley","USA","Caramel Stuffed Bars","15-Apr-22",NA,76,NA
+"374","Jan Morforth","India","Peanut Butter Cubes","04-Jan-22",NA,178,NA
+"375","Husein Augar","Australia","Eclairs","04-Jul-22",NA,31,NA
+"376","Beverie Moffet","USA","Smooth Sliky Salty","24-Mar-22",NA,352,NA
+"377","Camilla Castle","Australia","Manuka Honey Choco","17-Mar-22",637,169,107653
+"378","Oby Sorrel","Australia","Almond Choco","15-Feb-22",NA,223,NA
+"379","Jan Morforth","USA","Orange Choco","29-Jun-22",980,146,143080
+"380","Gigi Bohling","USA","Fruit & Nut Bars","24-May-22",NA,112,NA
+"381","Mallorie Waber","UK","Milk Bars","10-Jan-22",NA,284,NA
+"382","Curtice Advani","USA","Raspberry Choco","15-Mar-22",NA,139,NA
+"383","Marney O'Breen","Canada","Milk Bars","08-Feb-22",NA,309,NA
+"384","Brien Boise","India","Caramel Stuffed Bars","25-Feb-22",NA,100,NA
+"385","Gunar Cockshoot","USA","Eclairs","03-May-22",NA,42,NA
+"386","Roddy Speechley","USA","Fruit & Nut Bars","14-Jun-22",NA,24,NA
+"387","Gunar Cockshoot","India","50% Dark Bites","09-Aug-22",NA,83,NA
+"388","Wilone O'Kielt","New Zealand","Manuka Honey Choco","11-Jul-22",NA,234,NA
+"389","Kaine Padly","UK","Manuka Honey Choco","14-Jan-22",NA,118,NA
+"390","Van Tuxwell","Canada","Manuka Honey Choco","24-Feb-22",NA,46,NA
+"391","Wilone O'Kielt","New Zealand","Almond Choco","15-Mar-22",NA,144,NA
+"392","Oby Sorrel","New Zealand","Baker's Choco Chips","25-Apr-22",NA,47,NA
+"393","Dennison Crosswaite","Australia","Organic Choco Syrup","10-May-22",NA,41,NA
+"394","Marney O'Breen","Australia","Spicy Special Slims","23-Jun-22",NA,275,NA
+"395","Beverie Moffet","Canada","Smooth Sliky Salty","28-Feb-22",NA,370,NA
+"396","Brien Boise","USA","Organic Choco Syrup","25-May-22",NA,138,NA
+"397","Roddy Speechley","New Zealand","Baker's Choco Chips","22-Feb-22",NA,215,NA
+"398","Van Tuxwell","UK","85% Dark Bars","11-Jul-22",NA,134,NA
+"399","Marney O'Breen","Canada","Spicy Special Slims","03-Jan-22",NA,336,NA
+"400","Rafaelita Blaksland","New Zealand","70% Dark Bites","24-Aug-22",679,280,190120
+"401","Beverie Moffet","USA","50% Dark Bites","28-Jul-22",NA,352,NA
+"402","Brien Boise","USA","Mint Chip Choco","25-May-22",NA,150,NA
+"403","Karlen McCaffrey","New Zealand","Eclairs","06-May-22",NA,177,NA
+"404","Barr Faughny","India","Drinking Coco","28-Jan-22",NA,142,NA
+"405","Marney O'Breen","UK","Orange Choco","06-Jun-22",NA,12,NA
+"406","Brien Boise","New Zealand","Baker's Choco Chips","12-Jul-22",NA,24,NA
+"407","Ches Bonnell","Canada","Spicy Special Slims","05-Aug-22",NA,183,NA
+"408","Brien Boise","USA","Orange Choco","28-Jan-22",NA,147,NA
+"409","Kaine Padly","India","Spicy Special Slims","31-Aug-22",NA,137,NA
+"410","Mallorie Waber","USA","50% Dark Bites","19-Apr-22",NA,13,NA
+"411","Mallorie Waber","UK","Mint Chip Choco","29-Jun-22",NA,2,NA
+"412","Beverie Moffet","India","Choco Coated Almonds","24-Feb-22",NA,261,NA
+"413","Madelene Upcott","UK","Smooth Sliky Salty","04-Mar-22",NA,84,NA
+"414","Gigi Bohling","India","Eclairs","21-Jun-22",NA,68,NA
+"415","Rafaelita Blaksland","Australia","Organic Choco Syrup","26-Jan-22",994,105,104370
+"416","Oby Sorrel","New Zealand","White Choc","10-Jun-22",NA,40,NA
+"417","Andria Kimpton","UK","Drinking Coco","23-May-22",NA,65,NA
+"418","Kelci Walkden","India","Milk Bars","15-Apr-22",966,107,103362
+"419","Karlen McCaffrey","New Zealand","Caramel Stuffed Bars","31-Jan-22",NA,227,NA
+"420","Andria Kimpton","New Zealand","Organic Choco Syrup","04-Mar-22",NA,39,NA
+"421","Barr Faughny","New Zealand","After Nines","19-Apr-22",NA,84,NA
+"422","Beverie Moffet","UK","Almond Choco","16-May-22",NA,100,NA
+"423","Oby Sorrel","Australia","Raspberry Choco","17-Feb-22",NA,120,NA
+"424","Dennison Crosswaite","USA","Raspberry Choco","18-Jan-22",NA,257,NA
+"425","Roddy Speechley","Canada","Orange Choco","09-Feb-22",NA,85,NA
+"426","Mallorie Waber","Canada","Orange Choco","23-Mar-22",NA,178,NA
+"427","Madelene Upcott","New Zealand","Caramel Stuffed Bars","01-Feb-22",NA,151,NA
+"428","Mallorie Waber","India","Drinking Coco","07-Mar-22",NA,142,NA
+"429","Ches Bonnell","UK","White Choc","03-Jan-22",NA,226,NA
+"430","Ches Bonnell","USA","White Choc","11-Feb-22",NA,341,NA
+"431","Dennison Crosswaite","New Zealand","Orange Choco","16-Mar-22",NA,140,NA
+"432","Dotty Strutley","India","White Choc","15-Aug-22",NA,330,NA
+"433","Gigi Bohling","India","Manuka Honey Choco","12-May-22",NA,73,NA
+"434","Van Tuxwell","India","Spicy Special Slims","11-Apr-22",NA,4,NA
+"435","Jan Morforth","New Zealand","Mint Chip Choco","30-Jun-22",NA,285,NA
+"436","Dotty Strutley","New Zealand","White Choc","15-Jun-22",NA,60,NA
+"437","Rafaelita Blaksland","Canada","Caramel Stuffed Bars","01-Aug-22",NA,101,NA
+"438","Kaine Padly","USA","Milk Bars","15-Jun-22",NA,58,NA
+"439","Brien Boise","India","After Nines","16-Jun-22",NA,45,NA
+"440","Oby Sorrel","New Zealand","Raspberry Choco","13-May-22",NA,281,NA
+"441","Dennison Crosswaite","USA","Drinking Coco","10-May-22",NA,138,NA
+"442","Oby Sorrel","India","Eclairs","25-Aug-22",NA,322,NA
+"443","Ches Bonnell","New Zealand","Organic Choco Syrup","15-Jul-22",NA,85,NA
+"444","Gigi Bohling","UK","Baker's Choco Chips","16-May-22",NA,409,NA
+"445","Jan Morforth","Australia","50% Dark Bites","14-Jun-22",NA,182,NA
+"446","Beverie Moffet","Australia","Smooth Sliky Salty","25-Jan-22",NA,467,NA
+"447","Ches Bonnell","USA","Organic Choco Syrup","28-Jul-22",NA,14,NA
+"448","Brien Boise","Canada","Mint Chip Choco","28-Jan-22",NA,178,NA
+"449","Kaine Padly","UK","Orange Choco","29-Jun-22",NA,191,NA
+"450","Karlen McCaffrey","Australia","70% Dark Bites","24-Jun-22",238,317,75446
+"451","Gunar Cockshoot","Canada","Mint Chip Choco","01-Jul-22",NA,410,NA
+"452","Roddy Speechley","USA","Peanut Butter Cubes","25-Feb-22",NA,137,NA
+"453","Curtice Advani","Canada","Smooth Sliky Salty","01-Aug-22",NA,12,NA
+"454","Oby Sorrel","Australia","Milk Bars","21-Jun-22",NA,254,NA
+"455","Camilla Castle","New Zealand","Spicy Special Slims","25-Jan-22",NA,24,NA
+"456","Gigi Bohling","UK","Milk Bars","17-May-22",NA,232,NA
+"457","Andria Kimpton","Australia","85% Dark Bars","23-Aug-22",NA,233,NA
+"458","Camilla Castle","Australia","Smooth Sliky Salty","03-Mar-22",NA,118,NA
+"459","Roddy Speechley","India","Caramel Stuffed Bars","30-May-22",NA,543,NA
+"460","Karlen McCaffrey","USA","Drinking Coco","29-Jun-22",112,223,24976
+"461","Andria Kimpton","Canada","Organic Choco Syrup","04-Jan-22",NA,204,NA
+"462","Jehu Rudeforth","Australia","Drinking Coco","14-Jan-22",NA,65,NA
+"463","Karlen McCaffrey","USA","Mint Chip Choco","15-Feb-22",NA,53,NA
+"464","Curtice Advani","New Zealand","Spicy Special Slims","10-Jan-22",NA,469,NA
+"465","Madelene Upcott","USA","White Choc","04-May-22",NA,213,NA
+"466","Andria Kimpton","USA","Spicy Special Slims","23-May-22",NA,5,NA
+"467","Barr Faughny","New Zealand","Fruit & Nut Bars","26-Apr-22",NA,147,NA
+"468","Oby Sorrel","Canada","Organic Choco Syrup","05-Jul-22",NA,74,NA
+"469","Madelene Upcott","UK","Organic Choco Syrup","21-Jul-22",NA,163,NA
+"470","Dotty Strutley","USA","Mint Chip Choco","21-Feb-22",NA,248,NA
+"471","Kelci Walkden","USA","Orange Choco","03-Feb-22",NA,138,NA
+"472","Gigi Bohling","Australia","Caramel Stuffed Bars","08-Jul-22",NA,151,NA
+"473","Mallorie Waber","India","50% Dark Bites","31-May-22",588,139,81732
+"474","Van Tuxwell","New Zealand","Mint Chip Choco","27-Jun-22",NA,103,NA
+"475","Van Tuxwell","India","50% Dark Bites","13-May-22",NA,129,NA
+"476","Van Tuxwell","USA","Manuka Honey Choco","31-May-22",NA,102,NA
+"477","Wilone O'Kielt","USA","Orange Choco","28-Feb-22",NA,37,NA
+"478","Barr Faughny","New Zealand","Eclairs","28-Mar-22",NA,31,NA
+"479","Gigi Bohling","USA","After Nines","14-Jan-22",NA,227,NA
+"480","Barr Faughny","New Zealand","Mint Chip Choco","21-Feb-22",NA,145,NA
+"481","Dennison Crosswaite","Canada","85% Dark Bars","01-Aug-22",NA,90,NA
+"482","Beverie Moffet","New Zealand","Smooth Sliky Salty","19-May-22",NA,59,NA
+"483","Husein Augar","USA","White Choc","13-Jul-22",NA,60,NA
+"484","Andria Kimpton","Australia","Peanut Butter Cubes","20-Apr-22",NA,148,NA
+"485","Dennison Crosswaite","India","85% Dark Bars","30-Jun-22",NA,22,NA
+"486","Curtice Advani","UK","50% Dark Bites","08-Mar-22",NA,142,NA
+"487","Gunar Cockshoot","USA","Fruit & Nut Bars","09-Mar-22",NA,93,NA
+"488","Oby Sorrel","Canada","Raspberry Choco","16-Jun-22",NA,208,NA
+"489","Gigi Bohling","UK","Drinking Coco","30-Jun-22",NA,42,NA
+"490","Kelci Walkden","India","Mint Chip Choco","28-Jul-22",NA,120,NA
+"491","Karlen McCaffrey","Canada","Peanut Butter Cubes","12-Aug-22",NA,159,NA
+"492","Barr Faughny","UK","Mint Chip Choco","07-Jul-22",NA,316,NA
+"493","Barr Faughny","USA","85% Dark Bars","25-Aug-22",NA,47,NA
+"494","Husein Augar","Canada","Eclairs","17-Jan-22",NA,233,NA
+"495","Jan Morforth","Australia","70% Dark Bites","04-Mar-22",NA,384,NA
+"496","Marney O'Breen","New Zealand","Fruit & Nut Bars","25-Aug-22",NA,4,NA
+"497","Ches Bonnell","UK","Peanut Butter Cubes","15-Apr-22",NA,260,NA
+"498","Kaine Padly","USA","Organic Choco Syrup","11-Mar-22",NA,22,NA
+"499","Camilla Castle","USA","Raspberry Choco","20-May-22",NA,18,NA
+"500","Brien Boise","New Zealand","Manuka Honey Choco","14-Jun-22",NA,42,NA
+"501","Jehu Rudeforth","New Zealand","After Nines","14-Apr-22",NA,73,NA
+"502","Jehu Rudeforth","USA","Smooth Sliky Salty","07-Jul-22",NA,154,NA
+"503","Madelene Upcott","India","Mint Chip Choco","24-Aug-22",NA,71,NA
+"504","Jehu Rudeforth","India","Eclairs","24-Feb-22",NA,127,NA
+"505","Karlen McCaffrey","Canada","Raspberry Choco","09-May-22",651,224,145824
+"506","Kaine Padly","Australia","70% Dark Bites","08-Feb-22",NA,223,NA
+"507","Roddy Speechley","UK","70% Dark Bites","24-Mar-22",NA,284,NA
+"508","Rafaelita Blaksland","USA","Drinking Coco","20-Jun-22",NA,73,NA
+"509","Mallorie Waber","Canada","Manuka Honey Choco","07-Mar-22",NA,112,NA
+"510","Kaine Padly","Australia","Fruit & Nut Bars","20-Jun-22",NA,85,NA
+"511","Oby Sorrel","New Zealand","Organic Choco Syrup","17-Feb-22",NA,270,NA
+"512","Madelene Upcott","UK","99% Dark & Pure","26-Jan-22",NA,45,NA
+"513","Madelene Upcott","Australia","Mint Chip Choco","02-May-22",NA,153,NA
+"514","Curtice Advani","Canada","99% Dark & Pure","07-Jul-22",NA,7,NA
+"515","Rafaelita Blaksland","Australia","Baker's Choco Chips","22-Aug-22",NA,51,NA
+"516","Karlen McCaffrey","Australia","After Nines","11-Aug-22",NA,67,NA
+"517","Marney O'Breen","UK","99% Dark & Pure","13-Jan-22",NA,194,NA
+"518","Gunar Cockshoot","Australia","50% Dark Bites","02-Mar-22",NA,116,NA
+"519","Marney O'Breen","Australia","Choco Coated Almonds","27-Jul-22",NA,41,NA
+"520","Kelci Walkden","New Zealand","Drinking Coco","10-Mar-22",NA,111,NA
+"521","Beverie Moffet","USA","85% Dark Bars","23-Aug-22",NA,334,NA
+"522","Roddy Speechley","USA","Eclairs","25-Apr-22",NA,155,NA
+"523","Dennison Crosswaite","UK","Milk Bars","07-Mar-22",NA,407,NA
+"524","Wilone O'Kielt","UK","Organic Choco Syrup","12-Jul-22",NA,52,NA
+"525","Madelene Upcott","USA","Orange Choco","16-May-22",NA,138,NA
+"526","Gunar Cockshoot","India","Smooth Sliky Salty","02-Mar-22",NA,70,NA
+"527","Marney O'Breen","New Zealand","85% Dark Bars","30-May-22",NA,149,NA
+"528","Marney O'Breen","UK","Manuka Honey Choco","10-Jun-22",NA,179,NA
+"529","Brien Boise","USA","99% Dark & Pure","25-Jul-22",NA,353,NA
+"530","Beverie Moffet","New Zealand","Mint Chip Choco","09-Jun-22",NA,97,NA
+"531","Dennison Crosswaite","USA","Milk Bars","12-May-22",777,60,46620
+"532","Gunar Cockshoot","USA","Drinking Coco","09-May-22",NA,5,NA
+"533","Brien Boise","Canada","Manuka Honey Choco","09-Aug-22",NA,182,NA
+"534","Van Tuxwell","India","Choco Coated Almonds","13-Apr-22",NA,114,NA
+"535","Andria Kimpton","USA","Caramel Stuffed Bars","02-May-22",NA,46,NA
+"536","Dotty Strutley","USA","99% Dark & Pure","09-Aug-22",NA,320,NA
+"537","Camilla Castle","Australia","Raspberry Choco","23-Aug-22",NA,178,NA
+"538","Gunar Cockshoot","India","Spicy Special Slims","13-May-22",NA,170,NA
+"539","Karlen McCaffrey","USA","Manuka Honey Choco","01-Feb-22",NA,67,NA
+"540","Camilla Castle","USA","50% Dark Bites","23-Jun-22",NA,301,NA
+"541","Madelene Upcott","UK","Choco Coated Almonds","24-May-22",NA,134,NA
+"542","Jan Morforth","Canada","Mint Chip Choco","01-Apr-22",NA,211,NA
+"543","Camilla Castle","Canada","70% Dark Bites","27-Jul-22",NA,151,NA
+"544","Ches Bonnell","India","Peanut Butter Cubes","27-Jan-22",NA,208,NA
+"545","Jan Morforth","India","Choco Coated Almonds","12-Aug-22",NA,134,NA
+"546","Gigi Bohling","Canada","Almond Choco","01-Feb-22",NA,49,NA
+"547","Rafaelita Blaksland","India","After Nines","02-Mar-22",NA,204,NA
+"548","Kelci Walkden","Australia","99% Dark & Pure","30-Jun-22",NA,34,NA
+"549","Dotty Strutley","Australia","Spicy Special Slims","17-Jan-22",NA,91,NA
+"550","Brien Boise","USA","Milk Bars","07-Jul-22",NA,130,NA
+"551","Mallorie Waber","New Zealand","Mint Chip Choco","31-Jan-22",NA,107,NA
+"552","Beverie Moffet","UK","99% Dark & Pure","10-Aug-22",NA,121,NA
+"553","Beverie Moffet","USA","Peanut Butter Cubes","18-Aug-22",NA,339,NA
+"554","Brien Boise","New Zealand","White Choc","15-Jun-22",NA,321,NA
+"555","Marney O'Breen","USA","Baker's Choco Chips","26-Jan-22",NA,9,NA
+"556","Kelci Walkden","USA","Spicy Special Slims","29-Apr-22",77,69,5313
+"557","Mallorie Waber","Canada","White Choc","03-Mar-22",NA,72,NA
+"558","Kaine Padly","Australia","Almond Choco","22-Feb-22",NA,392,NA
+"559","Oby Sorrel","USA","Smooth Sliky Salty","04-Mar-22",NA,158,NA
+"560","Dennison Crosswaite","India","Smooth Sliky Salty","07-Jul-22",NA,9,NA
+"561","Camilla Castle","New Zealand","Caramel Stuffed Bars","17-Jun-22",NA,347,NA
+"562","Jan Morforth","Canada","Caramel Stuffed Bars","02-Aug-22",NA,114,NA
+"563","Oby Sorrel","USA","Baker's Choco Chips","12-Aug-22",NA,120,NA
+"564","Madelene Upcott","New Zealand","Peanut Butter Cubes","28-Jan-22",NA,333,NA
+"565","Kelci Walkden","Australia","Orange Choco","29-Apr-22",NA,432,NA
+"566","Marney O'Breen","Australia","Manuka Honey Choco","05-Apr-22",NA,236,NA
+"567","Kaine Padly","Canada","Manuka Honey Choco","18-Jan-22",NA,135,NA
+"568","Jehu Rudeforth","UK","Baker's Choco Chips","16-May-22",NA,97,NA
+"569","Kelci Walkden","Australia","White Choc","24-Aug-22",NA,168,NA
+"570","Curtice Advani","India","85% Dark Bars","18-Jan-22",273,402,109746
+"571","Kaine Padly","USA","Eclairs","22-Aug-22",NA,10,NA
+"572","Gunar Cockshoot","UK","99% Dark & Pure","07-Mar-22",7,84,588
+"573","Beverie Moffet","UK","Choco Coated Almonds","04-Mar-22",NA,69,NA
+"574","Dotty Strutley","Canada","Manuka Honey Choco","22-Apr-22",NA,111,NA
+"575","Kaine Padly","Australia","Milk Bars","09-Jun-22",NA,89,NA
+"576","Jan Morforth","Canada","Fruit & Nut Bars","25-Jul-22",NA,199,NA
+"577","Jan Morforth","India","Smooth Sliky Salty","03-Aug-22",NA,89,NA
+"578","Rafaelita Blaksland","Australia","Manuka Honey Choco","03-Aug-22",NA,131,NA
+"579","Jehu Rudeforth","UK","Milk Bars","03-May-22",NA,227,NA
+"580","Husein Augar","Canada","After Nines","19-Jan-22",NA,301,NA
+"581","Roddy Speechley","USA","50% Dark Bites","11-Feb-22",NA,316,NA
+"582","Van Tuxwell","India","Almond Choco","14-Jun-22",NA,390,NA
+"583","Kelci Walkden","USA","50% Dark Bites","23-Mar-22",NA,223,NA
+"584","Madelene Upcott","Canada","85% Dark Bars","17-Feb-22",NA,101,NA
+"585","Dennison Crosswaite","Canada","Smooth Sliky Salty","17-Mar-22",NA,479,NA
+"586","Mallorie Waber","Australia","Spicy Special Slims","29-Jun-22",NA,287,NA
+"587","Ches Bonnell","Canada","Choco Coated Almonds","24-Aug-22",NA,269,NA
+"588","Gigi Bohling","Canada","Spicy Special Slims","04-Jul-22",NA,277,NA
+"589","Roddy Speechley","New Zealand","Almond Choco","28-Mar-22",NA,67,NA
+"590","Curtice Advani","India","Smooth Sliky Salty","19-Apr-22",NA,135,NA
+"591","Ches Bonnell","New Zealand","Mint Chip Choco","18-Jan-22",NA,229,NA
+"592","Van Tuxwell","New Zealand","Fruit & Nut Bars","17-Jan-22",NA,88,NA
+"593","Andria Kimpton","New Zealand","Mint Chip Choco","15-Feb-22",NA,211,NA
+"594","Andria Kimpton","UK","Milk Bars","11-Feb-22",NA,293,NA
+"595","Camilla Castle","USA","Manuka Honey Choco","21-Mar-22",NA,179,NA
+"596","Gunar Cockshoot","New Zealand","Almond Choco","05-Jan-22",NA,129,NA
+"597","Brien Boise","India","Raspberry Choco","30-May-22",NA,164,NA
+"598","Jehu Rudeforth","USA","99% Dark & Pure","04-Jan-22",NA,219,NA
+"599","Beverie Moffet","Australia","Fruit & Nut Bars","22-Apr-22",NA,258,NA
+"600","Gigi Bohling","Canada","Milk Bars","10-Feb-22",NA,116,NA
+"601","Dotty Strutley","India","Spicy Special Slims","12-Aug-22",910,204,185640
+"602","Gunar Cockshoot","USA","Organic Choco Syrup","10-Aug-22",NA,321,NA
+"603","Kelci Walkden","Australia","Raspberry Choco","07-Jun-22",679,56,38024
+"604","Jehu Rudeforth","India","Baker's Choco Chips","06-Jun-22",NA,74,NA
+"605","Karlen McCaffrey","New Zealand","Baker's Choco Chips","05-Apr-22",NA,189,NA
+"606","Wilone O'Kielt","USA","50% Dark Bites","18-Apr-22",NA,131,NA
+"607","Andria Kimpton","India","50% Dark Bites","31-Jan-22",NA,15,NA
+"608","Madelene Upcott","USA","Baker's Choco Chips","22-Aug-22",NA,140,NA
+"609","Jehu Rudeforth","Australia","99% Dark & Pure","25-Feb-22",NA,198,NA
+"610","Jan Morforth","Australia","Mint Chip Choco","22-Feb-22",NA,103,NA
+"611","Oby Sorrel","New Zealand","Milk Bars","12-Jan-22",NA,187,NA
+"612","Brien Boise","UK","Almond Choco","25-May-22",105,125,13125
+"613","Kelci Walkden","India","Smooth Sliky Salty","01-Feb-22",NA,8,NA
+"614","Rafaelita Blaksland","UK","Eclairs","27-Apr-22",NA,70,NA
+"615","Gigi Bohling","USA","Smooth Sliky Salty","22-Jul-22",NA,126,NA
+"616","Curtice Advani","New Zealand","Mint Chip Choco","26-Jan-22",NA,265,NA
+"617","Curtice Advani","USA","Mint Chip Choco","24-Aug-22",NA,296,NA
+"618","Madelene Upcott","New Zealand","Fruit & Nut Bars","18-Jan-22",NA,21,NA
+"619","Karlen McCaffrey","India","85% Dark Bars","30-Mar-22",945,83,78435
+"620","Ches Bonnell","Australia","Caramel Stuffed Bars","17-Jan-22",NA,162,NA
+"621","Kelci Walkden","USA","Fruit & Nut Bars","17-Feb-22",NA,145,NA
+"622","Kelci Walkden","Canada","Peanut Butter Cubes","08-Apr-22",NA,44,NA
+"623","Gigi Bohling","Canada","Drinking Coco","06-Jul-22",NA,82,NA
+"624","Husein Augar","India","Fruit & Nut Bars","04-Apr-22",NA,226,NA
+"625","Jan Morforth","New Zealand","Organic Choco Syrup","02-Mar-22",NA,207,NA
+"626","Gigi Bohling","New Zealand","Raspberry Choco","09-Aug-22",NA,176,NA
+"627","Dennison Crosswaite","Australia","Milk Bars","09-Jun-22",NA,286,NA
+"628","Ches Bonnell","UK","Caramel Stuffed Bars","02-Jun-22",NA,300,NA
+"629","Van Tuxwell","USA","Fruit & Nut Bars","05-Jul-22",NA,235,NA
+"630","Andria Kimpton","Canada","Eclairs","11-Aug-22",308,125,38500
+"631","Madelene Upcott","India","Choco Coated Almonds","11-Feb-22",NA,145,NA
+"632","Kelci Walkden","New Zealand","Spicy Special Slims","11-Aug-22",658,65,42770
+"633","Roddy Speechley","Australia","Drinking Coco","12-May-22",NA,102,NA
+"634","Wilone O'Kielt","USA","Milk Bars","15-Jul-22",NA,93,NA
+"635","Andria Kimpton","India","Organic Choco Syrup","18-Jan-22",NA,134,NA
+"636","Madelene Upcott","UK","Fruit & Nut Bars","05-Jan-22",NA,189,NA
+"637","Curtice Advani","Australia","50% Dark Bites","29-Jun-22",504,232,116928
+"638","Brien Boise","Canada","Raspberry Choco","14-Jun-22",NA,45,NA
+"639","Gunar Cockshoot","India","Mint Chip Choco","08-Aug-22",NA,67,NA
+"640","Dennison Crosswaite","India","Mint Chip Choco","23-Mar-22",NA,138,NA
+"641","Barr Faughny","India","Caramel Stuffed Bars","04-Jan-22",NA,99,NA
+"642","Brien Boise","India","Milk Bars","22-Feb-22",NA,251,NA
+"643","Beverie Moffet","UK","Spicy Special Slims","17-Feb-22",NA,252,NA
+"644","Barr Faughny","USA","Almond Choco","03-Feb-22",385,78,30030
+"645","Van Tuxwell","Canada","Raspberry Choco","17-Mar-22",NA,130,NA
+"646","Wilone O'Kielt","Australia","Baker's Choco Chips","25-Jan-22",NA,154,NA
+"647","Brien Boise","Australia","Milk Bars","27-Jul-22",NA,52,NA
+"648","Husein Augar","Australia","Fruit & Nut Bars","28-Jan-22",NA,53,NA
+"649","Madelene Upcott","Australia","Organic Choco Syrup","05-Jul-22",NA,50,NA
+"650","Van Tuxwell","India","White Choc","15-Mar-22",NA,44,NA
+"651","Gunar Cockshoot","Canada","After Nines","04-Aug-22",NA,200,NA
+"652","Jan Morforth","USA","Fruit & Nut Bars","27-Jun-22",NA,361,NA
+"653","Jan Morforth","Canada","After Nines","13-Jul-22",NA,172,NA
+"654","Barr Faughny","New Zealand","Manuka Honey Choco","24-Feb-22",NA,239,NA
+"655","Karlen McCaffrey","New Zealand","85% Dark Bars","28-Jun-22",NA,55,NA
+"656","Oby Sorrel","Australia","85% Dark Bars","30-Jun-22",NA,27,NA
+"657","Curtice Advani","Canada","Choco Coated Almonds","18-Aug-22",NA,7,NA
+"658","Kaine Padly","India","70% Dark Bites","24-Jan-22",NA,301,NA
+"659","Beverie Moffet","USA","White Choc","11-Mar-22",NA,134,NA
+"660","Ches Bonnell","New Zealand","After Nines","23-Jun-22",NA,350,NA
+"661","Husein Augar","India","Spicy Special Slims","22-Aug-22",NA,33,NA
+"662","Gunar Cockshoot","Canada","50% Dark Bites","04-Jan-22",NA,23,NA
+"663","Curtice Advani","India","Milk Bars","05-Apr-22",NA,201,NA
+"664","Beverie Moffet","India","Milk Bars","15-Apr-22",NA,323,NA
+"665","Husein Augar","Australia","White Choc","11-May-22",NA,220,NA
+"666","Andria Kimpton","Canada","Manuka Honey Choco","21-Jul-22",NA,488,NA
+"667","Jan Morforth","New Zealand","Orange Choco","11-Feb-22",NA,84,NA
+"668","Andria Kimpton","Canada","Smooth Sliky Salty","08-Jul-22",NA,79,NA
+"669","Gunar Cockshoot","UK","Raspberry Choco","11-Aug-22",NA,344,NA
+"670","Husein Augar","New Zealand","After Nines","04-Aug-22",NA,7,NA
+"671","Andria Kimpton","New Zealand","Orange Choco","14-Jun-22",NA,88,NA
+"672","Dennison Crosswaite","UK","Baker's Choco Chips","17-Jan-22",NA,275,NA
+"673","Jehu Rudeforth","Canada","Orange Choco","23-Jun-22",NA,512,NA
+"674","Jehu Rudeforth","UK","Smooth Sliky Salty","24-Aug-22",NA,113,NA
+"675","Andria Kimpton","UK","Caramel Stuffed Bars","07-Jun-22",NA,275,NA
+"676","Jan Morforth","UK","White Choc","22-Jun-22",NA,47,NA
+"677","Dotty Strutley","USA","Fruit & Nut Bars","13-Jul-22",NA,276,NA
+"678","Kelci Walkden","UK","Choco Coated Almonds","24-May-22",NA,212,NA
+"679","Gunar Cockshoot","New Zealand","After Nines","09-Aug-22",NA,145,NA
+"680","Kaine Padly","Canada","85% Dark Bars","06-Apr-22",NA,31,NA
+"681","Jan Morforth","New Zealand","Manuka Honey Choco","28-Jul-22",NA,271,NA
+"682","Gunar Cockshoot","New Zealand","Raspberry Choco","24-Aug-22",630,52,32760
+"683","Van Tuxwell","Australia","99% Dark & Pure","17-Jan-22",112,128,14336
+"684","Curtice Advani","USA","Drinking Coco","07-Feb-22",NA,142,NA
+"685","Brien Boise","Australia","Spicy Special Slims","09-May-22",NA,256,NA
+"686","Mallorie Waber","New Zealand","85% Dark Bars","06-Jun-22",NA,106,NA
+"687","Wilone O'Kielt","USA","Choco Coated Almonds","06-Jun-22",NA,6,NA
+"688","Beverie Moffet","New Zealand","Organic Choco Syrup","24-May-22",NA,226,NA
+"689","Gunar Cockshoot","UK","50% Dark Bites","13-Jan-22",NA,121,NA
+"690","Marney O'Breen","USA","Raspberry Choco","23-May-22",NA,151,NA
+"691","Jehu Rudeforth","UK","White Choc","29-Jun-22",NA,284,NA
+"692","Jehu Rudeforth","New Zealand","85% Dark Bars","11-Mar-22",NA,89,NA
+"693","Dotty Strutley","USA","85% Dark Bars","25-Apr-22",NA,508,NA
+"694","Rafaelita Blaksland","Australia","Smooth Sliky Salty","30-May-22",NA,243,NA
+"695","Curtice Advani","India","Manuka Honey Choco","23-May-22",NA,170,NA
+"696","Mallorie Waber","USA","Peanut Butter Cubes","23-May-22",NA,18,NA
+"697","Van Tuxwell","Canada","Peanut Butter Cubes","24-Jun-22",NA,282,NA
+"698","Kelci Walkden","New Zealand","Smooth Sliky Salty","11-Mar-22",NA,277,NA
+"699","Rafaelita Blaksland","USA","Smooth Sliky Salty","27-Jul-22",NA,212,NA
+"700","Rafaelita Blaksland","USA","White Choc","16-Aug-22",NA,126,NA
+"701","Roddy Speechley","Canada","Smooth Sliky Salty","07-Mar-22",NA,11,NA
+"702","Curtice Advani","New Zealand","After Nines","05-Apr-22",NA,30,NA
+"703","Camilla Castle","India","85% Dark Bars","04-May-22",NA,51,NA
+"704","Ches Bonnell","USA","Choco Coated Almonds","04-Jan-22",NA,92,NA
+"705","Marney O'Breen","Australia","Baker's Choco Chips","13-Jan-22",NA,101,NA
+"706","Wilone O'Kielt","New Zealand","Fruit & Nut Bars","11-Jul-22",NA,98,NA
+"707","Kaine Padly","Australia","Mint Chip Choco","17-May-22",NA,159,NA
+"708","Camilla Castle","New Zealand","Peanut Butter Cubes","21-Jul-22",NA,62,NA
+"709","Curtice Advani","Canada","Organic Choco Syrup","22-Feb-22",791,22,17402
+"710","Jan Morforth","India","99% Dark & Pure","23-May-22",NA,187,NA
+"711","Rafaelita Blaksland","Canada","Drinking Coco","12-Jul-22",NA,200,NA
+"712","Jan Morforth","UK","Orange Choco","15-Jun-22",NA,201,NA
+"713","Barr Faughny","New Zealand","50% Dark Bites","23-Jun-22",NA,308,NA
+"714","Curtice Advani","Australia","Eclairs","25-Mar-22",NA,55,NA
+"715","Jan Morforth","India","Caramel Stuffed Bars","04-Jul-22",84,153,12852
+"716","Andria Kimpton","UK","White Choc","12-May-22",NA,101,NA
+"717","Camilla Castle","New Zealand","Raspberry Choco","04-Apr-22",NA,137,NA
+"718","Madelene Upcott","Australia","Orange Choco","15-Apr-22",NA,398,NA
+"719","Roddy Speechley","Canada","Eclairs","08-Mar-22",NA,88,NA
+"720","Karlen McCaffrey","India","White Choc","17-Jan-22",NA,232,NA
+"721","Wilone O'Kielt","India","Mint Chip Choco","22-Aug-22",NA,51,NA
+"722","Andria Kimpton","UK","99% Dark & Pure","25-Jul-22",NA,66,NA
+"723","Marney O'Breen","UK","50% Dark Bites","14-Jun-22",NA,124,NA
+"724","Ches Bonnell","India","Choco Coated Almonds","05-Apr-22",NA,78,NA
+"725","Madelene Upcott","UK","Raspberry Choco","26-Aug-22",NA,341,NA
+"726","Wilone O'Kielt","Australia","50% Dark Bites","03-Aug-22",NA,114,NA
+"727","Gigi Bohling","Canada","White Choc","11-Jul-22",NA,4,NA
+"728","Wilone O'Kielt","New Zealand","Eclairs","11-Mar-22",NA,22,NA
+"729","Brien Boise","UK","Peanut Butter Cubes","10-Jan-22",NA,30,NA
+"730","Roddy Speechley","UK","Baker's Choco Chips","04-Apr-22",NA,351,NA
+"731","Karlen McCaffrey","Australia","50% Dark Bites","17-Jan-22",NA,708,NA
+"732","Marney O'Breen","New Zealand","Organic Choco Syrup","08-Jul-22",NA,50,NA
+"733","Jan Morforth","UK","Organic Choco Syrup","12-Apr-22",NA,356,NA
+"734","Rafaelita Blaksland","Canada","Fruit & Nut Bars","24-Aug-22",483,185,89355
+"735","Ches Bonnell","UK","Choco Coated Almonds","07-Jun-22",NA,236,NA
+"736","Gunar Cockshoot","Canada","Almond Choco","28-Jul-22",NA,30,NA
+"737","Husein Augar","USA","99% Dark & Pure","21-Feb-22",NA,111,NA
+"738","Dennison Crosswaite","Canada","Mint Chip Choco","08-Apr-22",NA,289,NA
+"739","Brien Boise","UK","Manuka Honey Choco","28-Jun-22",70,103,7210
+"740","Van Tuxwell","UK","Baker's Choco Chips","24-Mar-22",NA,20,NA
+"741","Barr Faughny","Australia","Caramel Stuffed Bars","29-Jul-22",NA,55,NA
+"742","Dennison Crosswaite","USA","Eclairs","25-May-22",NA,90,NA
+"743","Gigi Bohling","Australia","Raspberry Choco","30-Mar-22",NA,303,NA
+"744","Dennison Crosswaite","USA","Organic Choco Syrup","18-Jul-22",NA,126,NA
+"745","Beverie Moffet","Canada","Orange Choco","10-May-22",NA,109,NA
+"746","Mallorie Waber","Australia","Choco Coated Almonds","18-Mar-22",NA,92,NA
+"747","Ches Bonnell","India","Caramel Stuffed Bars","15-Jun-22",NA,56,NA
+"748","Van Tuxwell","Canada","50% Dark Bites","12-May-22",NA,58,NA
+"749","Kelci Walkden","New Zealand","Baker's Choco Chips","23-Jun-22",NA,110,NA
+"750","Beverie Moffet","India","Spicy Special Slims","21-Apr-22",NA,171,NA
+"751","Gigi Bohling","Australia","Almond Choco","17-Aug-22",910,117,106470
+"752","Rafaelita Blaksland","New Zealand","Eclairs","07-Feb-22",NA,51,NA
+"753","Kelci Walkden","Canada","Smooth Sliky Salty","17-Mar-22",NA,118,NA
+"754","Jan Morforth","India","Baker's Choco Chips","01-Aug-22",NA,79,NA
+"755","Jehu Rudeforth","Australia","Milk Bars","18-Mar-22",NA,29,NA
+"756","Gigi Bohling","Canada","Fruit & Nut Bars","14-Jun-22",NA,103,NA
+"757","Beverie Moffet","UK","Eclairs","22-Apr-22",NA,155,NA
+"758","Marney O'Breen","New Zealand","Eclairs","18-Jan-22",NA,31,NA
+"759","Husein Augar","Australia","99% Dark & Pure","26-Aug-22",NA,128,NA
+"760","Gunar Cockshoot","New Zealand","Fruit & Nut Bars","10-Jun-22",NA,419,NA
+"761","Curtice Advani","Canada","70% Dark Bites","31-Jan-22",NA,7,NA
+"762","Kelci Walkden","New Zealand","Manuka Honey Choco","08-Apr-22",NA,106,NA
+"763","Dotty Strutley","Australia","Baker's Choco Chips","07-Jun-22",NA,68,NA
+"764","Barr Faughny","Australia","85% Dark Bars","10-Feb-22",NA,44,NA
+"765","Beverie Moffet","Australia","50% Dark Bites","16-May-22",700,457,319900
+"766","Gunar Cockshoot","India","Baker's Choco Chips","18-Mar-22",NA,524,NA
+"767","Van Tuxwell","Australia","50% Dark Bites","13-Jul-22",644,137,88228
+"768","Oby Sorrel","USA","Manuka Honey Choco","25-Jul-22",NA,86,NA
+"769","Van Tuxwell","Canada","Choco Coated Almonds","19-Aug-22",NA,296,NA
+"770","Karlen McCaffrey","Canada","70% Dark Bites","24-Jun-22",NA,597,NA
+"771","Kelci Walkden","Canada","Fruit & Nut Bars","20-Jun-22",826,149,123074
+"772","Camilla Castle","India","99% Dark & Pure","02-Aug-22",203,207,42021
+"773","Madelene Upcott","New Zealand","70% Dark Bites","22-Feb-22",NA,93,NA
+"774","Mallorie Waber","New Zealand","Orange Choco","01-Feb-22",NA,23,NA
+"775","Jan Morforth","Canada","70% Dark Bites","14-Feb-22",NA,305,NA
+"776","Kelci Walkden","Australia","Milk Bars","24-Feb-22",NA,125,NA
+"777","Dennison Crosswaite","India","Orange Choco","18-Mar-22",784,129,101136
+"778","Husein Augar","UK","Eclairs","30-Aug-22",NA,252,NA
+"779","Gigi Bohling","USA","Peanut Butter Cubes","09-May-22",280,75,21000
+"780","Wilone O'Kielt","USA","Smooth Sliky Salty","18-Jan-22",504,87,43848
+"781","Curtice Advani","India","White Choc","04-Jul-22",NA,342,NA
+"782","Oby Sorrel","New Zealand","Spicy Special Slims","03-Jun-22",NA,13,NA
+"783","Beverie Moffet","New Zealand","Peanut Butter Cubes","23-Feb-22",NA,30,NA
+"784","Dotty Strutley","New Zealand","99% Dark & Pure","09-May-22",NA,203,NA
+"785","Kelci Walkden","India","70% Dark Bites","06-Jun-22",NA,106,NA
+"786","Kelci Walkden","India","Drinking Coco","04-Jul-22",NA,234,NA
+"787","Brien Boise","New Zealand","Drinking Coco","06-Jun-22",NA,100,NA
+"788","Dotty Strutley","Australia","Almond Choco","13-May-22",NA,91,NA
+"789","Wilone O'Kielt","New Zealand","Organic Choco Syrup","31-Jan-22",NA,277,NA
+"790","Ches Bonnell","New Zealand","Caramel Stuffed Bars","30-Jun-22",NA,42,NA
+"791","Barr Faughny","Canada","Manuka Honey Choco","25-Aug-22",NA,249,NA
+"792","Gigi Bohling","New Zealand","Smooth Sliky Salty","10-Jan-22",700,97,67900
+"793","Brien Boise","USA","Manuka Honey Choco","22-Aug-22",NA,8,NA
+"794","Roddy Speechley","New Zealand","85% Dark Bars","14-Apr-22",NA,275,NA
+"795","Oby Sorrel","UK","Smooth Sliky Salty","31-May-22",NA,313,NA
+"796","Oby Sorrel","UK","Raspberry Choco","08-Apr-22",NA,323,NA
+"797","Roddy Speechley","USA","Drinking Coco","21-Feb-22",NA,155,NA
+"798","Andria Kimpton","Australia","Manuka Honey Choco","30-Mar-22",NA,377,NA
+"799","Mallorie Waber","India","Raspberry Choco","02-Mar-22",NA,2,NA
+"800","Jehu Rudeforth","USA","Orange Choco","28-Jul-22",364,170,61880
+"801","Kaine Padly","New Zealand","70% Dark Bites","24-Mar-22",NA,38,NA
+"802","Curtice Advani","Australia","After Nines","11-Aug-22",63,105,6615
+"803","Husein Augar","UK","Almond Choco","17-May-22",NA,166,NA
+"804","Kaine Padly","Canada","Choco Coated Almonds","18-May-22",NA,164,NA
+"805","Roddy Speechley","UK","Peanut Butter Cubes","17-Aug-22",NA,171,NA
+"806","Ches Bonnell","New Zealand","Eclairs","04-Apr-22",490,49,24010
+"807","Brien Boise","India","85% Dark Bars","09-Aug-22",NA,205,NA
+"808","Brien Boise","New Zealand","Organic Choco Syrup","17-Jan-22",637,313,199381
+"809","Andria Kimpton","Canada","White Choc","14-Feb-22",NA,29,NA
+"810","Gigi Bohling","New Zealand","Orange Choco","16-May-22",NA,307,NA
+"811","Ches Bonnell","Canada","Smooth Sliky Salty","16-Mar-22",NA,121,NA
+"812","Husein Augar","Canada","70% Dark Bites","31-Jan-22",NA,285,NA
+"813","Barr Faughny","Canada","Organic Choco Syrup","10-Mar-22",NA,205,NA
+"814","Oby Sorrel","UK","Organic Choco Syrup","30-Jun-22",NA,157,NA
+"815","Van Tuxwell","New Zealand","Eclairs","01-Mar-22",NA,182,NA
+"816","Mallorie Waber","UK","Drinking Coco","27-May-22",NA,100,NA
+"817","Oby Sorrel","UK","Milk Bars","11-Jul-22",NA,223,NA
+"818","Karlen McCaffrey","New Zealand","Mint Chip Choco","02-Mar-22",NA,61,NA
+"819","Jehu Rudeforth","USA","Raspberry Choco","04-Mar-22",NA,133,NA
+"820","Kelci Walkden","UK","85% Dark Bars","23-Jun-22",NA,228,NA
+"821","Kelci Walkden","USA","Almond Choco","27-Jan-22",NA,233,NA
+"822","Marney O'Breen","Canada","Orange Choco","14-Jan-22",NA,425,NA
+"823","Dennison Crosswaite","India","Fruit & Nut Bars","29-Jul-22",952,24,22848
+"824","Brien Boise","Canada","Smooth Sliky Salty","13-May-22",NA,495,NA
+"825","Barr Faughny","Canada","Baker's Choco Chips","03-Feb-22",NA,170,NA
+"826","Brien Boise","India","Smooth Sliky Salty","27-May-22",NA,26,NA
+"827","Jan Morforth","Australia","Drinking Coco","18-Feb-22",NA,24,NA
+"828","Brien Boise","India","Spicy Special Slims","28-Jan-22",NA,33,NA
+"829","Van Tuxwell","UK","Eclairs","29-Jun-22",NA,109,NA
+"830","Wilone O'Kielt","India","Caramel Stuffed Bars","13-Jan-22",NA,276,NA
+"831","Jehu Rudeforth","UK","After Nines","27-Jun-22",NA,164,NA
+"832","Barr Faughny","Canada","White Choc","29-Mar-22",NA,1,NA
+"833","Gunar Cockshoot","India","Organic Choco Syrup","03-Jun-22",NA,160,NA
+"834","Mallorie Waber","Canada","Smooth Sliky Salty","21-Mar-22",NA,98,NA
+"835","Mallorie Waber","India","Eclairs","12-Apr-22",NA,46,NA
+"836","Rafaelita Blaksland","Australia","Raspberry Choco","19-Jan-22",NA,259,NA
+"837","Karlen McCaffrey","UK","50% Dark Bites","06-Apr-22",NA,310,NA
+"838","Kaine Padly","Australia","50% Dark Bites","02-Aug-22",NA,78,NA
+"839","Gigi Bohling","Australia","Eclairs","12-Apr-22",NA,136,NA
+"840","Oby Sorrel","India","Drinking Coco","21-Jul-22",NA,130,NA
+"841","Van Tuxwell","New Zealand","Baker's Choco Chips","22-Mar-22",NA,24,NA
+"842","Husein Augar","India","Peanut Butter Cubes","09-May-22",NA,5,NA
+"843","Andria Kimpton","Australia","Baker's Choco Chips","09-Aug-22",329,109,35861
+"844","Madelene Upcott","Canada","Choco Coated Almonds","20-Jul-22",NA,294,NA
+"845","Brien Boise","India","70% Dark Bites","14-Apr-22",NA,413,NA
+"846","Jehu Rudeforth","Canada","White Choc","25-Jan-22",NA,136,NA
+"847","Andria Kimpton","Australia","Almond Choco","25-Apr-22",NA,175,NA
+"848","Dotty Strutley","Canada","After Nines","17-Jan-22",252,237,59724
+"849","Karlen McCaffrey","USA","Eclairs","15-Aug-22",868,125,108500
+"850","Karlen McCaffrey","Canada","Fruit & Nut Bars","02-Jun-22",210,16,3360
+"851","Gunar Cockshoot","USA","85% Dark Bars","30-Jun-22",NA,135,NA
+"852","Dotty Strutley","New Zealand","Raspberry Choco","10-Feb-22",NA,91,NA
+"853","Marney O'Breen","Canada","Caramel Stuffed Bars","23-Feb-22",NA,614,NA
+"854","Dennison Crosswaite","India","Organic Choco Syrup","27-Jan-22",NA,216,NA
+"855","Camilla Castle","UK","Mint Chip Choco","26-May-22",NA,317,NA
+"856","Brien Boise","USA","70% Dark Bites","14-Apr-22",NA,21,NA
+"857","Madelene Upcott","Australia","99% Dark & Pure","01-Aug-22",NA,154,NA
+"858","Mallorie Waber","Australia","Eclairs","22-Aug-22",NA,222,NA
+"859","Marney O'Breen","India","99% Dark & Pure","22-Jul-22",NA,157,NA
+"860","Husein Augar","USA","Fruit & Nut Bars","28-Apr-22",NA,27,NA
+"861","Kelci Walkden","Australia","Almond Choco","30-May-22",NA,350,NA
+"862","Ches Bonnell","USA","Milk Bars","21-Jul-22",NA,157,NA
+"863","Jan Morforth","UK","Caramel Stuffed Bars","02-Aug-22",NA,468,NA
+"864","Brien Boise","New Zealand","70% Dark Bites","15-Jun-22",NA,130,NA
+"865","Oby Sorrel","India","85% Dark Bars","05-Jul-22",NA,130,NA
+"866","Kaine Padly","New Zealand","Smooth Sliky Salty","12-Apr-22",7,518,3626
+"867","Gigi Bohling","Australia","70% Dark Bites","18-Aug-22",NA,105,NA
+"868","Jan Morforth","UK","50% Dark Bites","12-Jan-22",NA,293,NA
+"869","Gunar Cockshoot","Canada","White Choc","11-Aug-22",NA,15,NA
+"870","Jehu Rudeforth","Australia","Spicy Special Slims","13-Jan-22",NA,384,NA
+"871","Husein Augar","UK","Baker's Choco Chips","29-Apr-22",NA,135,NA
+"872","Rafaelita Blaksland","New Zealand","After Nines","07-Jul-22",NA,92,NA
+"873","Madelene Upcott","New Zealand","Mint Chip Choco","11-Mar-22",NA,4,NA
+"874","Madelene Upcott","UK","70% Dark Bites","16-Feb-22",NA,239,NA
+"875","Barr Faughny","Australia","Organic Choco Syrup","07-Jan-22",NA,33,NA
+"876","Beverie Moffet","New Zealand","Drinking Coco","12-Jan-22",NA,518,NA
+"877","Beverie Moffet","India","Eclairs","09-Jun-22",NA,147,NA
+"878","Andria Kimpton","India","Eclairs","16-May-22",NA,84,NA
+"879","Gigi Bohling","UK","85% Dark Bars","23-Jun-22",NA,94,NA
+"880","Roddy Speechley","UK","Raspberry Choco","28-Jan-22",NA,194,NA
+"881","Dotty Strutley","UK","Mint Chip Choco","14-Jul-22",NA,216,NA
+"882","Barr Faughny","Canada","Drinking Coco","18-Apr-22",NA,247,NA
+"883","Oby Sorrel","USA","Milk Bars","14-Jun-22",NA,79,NA
+"884","Oby Sorrel","UK","Orange Choco","15-Apr-22",NA,237,NA
+"885","Curtice Advani","Canada","Peanut Butter Cubes","19-May-22",NA,63,NA
+"886","Gigi Bohling","India","White Choc","13-Apr-22",NA,172,NA
+"887","Husein Augar","Canada","Choco Coated Almonds","15-Aug-22",NA,408,NA
+"888","Wilone O'Kielt","India","Choco Coated Almonds","22-Aug-22",NA,233,NA
+"889","Wilone O'Kielt","New Zealand","Baker's Choco Chips","22-Apr-22",NA,59,NA
+"890","Kaine Padly","UK","Choco Coated Almonds","03-Aug-22",NA,123,NA
+"891","Dennison Crosswaite","New Zealand","Organic Choco Syrup","04-Jan-22",371,229,84959
+"892","Kelci Walkden","Canada","After Nines","13-Jan-22",NA,198,NA
+"893","Van Tuxwell","Australia","Baker's Choco Chips","11-May-22",NA,32,NA
+"894","Husein Augar","New Zealand","Peanut Butter Cubes","16-Feb-22",NA,236,NA
+"895","Kaine Padly","UK","Caramel Stuffed Bars","20-May-22",NA,67,NA
+"896","Jehu Rudeforth","UK","Drinking Coco","03-Feb-22",NA,438,NA
+"897","Beverie Moffet","India","Manuka Honey Choco","06-May-22",NA,167,NA
+"898","Gunar Cockshoot","UK","Choco Coated Almonds","30-Jun-22",NA,135,NA
+"899","Gunar Cockshoot","UK","Smooth Sliky Salty","22-Mar-22",749,148,110852
+"900","Camilla Castle","Canada","Orange Choco","17-Feb-22",NA,54,NA
+"901","Jehu Rudeforth","UK","85% Dark Bars","07-Jul-22",NA,64,NA
+"902","Oby Sorrel","UK","70% Dark Bites","16-Mar-22",NA,181,NA
+"903","Kelci Walkden","UK","99% Dark & Pure","12-Aug-22",NA,114,NA
+"904","Gigi Bohling","New Zealand","After Nines","21-Jan-22",NA,181,NA
+"905","Oby Sorrel","Australia","50% Dark Bites","06-May-22",721,151,108871
+"906","Oby Sorrel","Canada","50% Dark Bites","24-Jun-22",NA,137,NA
+"907","Barr Faughny","USA","White Choc","05-May-22",NA,163,NA
+"908","Rafaelita Blaksland","New Zealand","99% Dark & Pure","25-Mar-22",NA,84,NA
+"909","Curtice Advani","Australia","Caramel Stuffed Bars","14-Feb-22",NA,140,NA
+"910","Curtice Advani","New Zealand","85% Dark Bars","12-May-22",NA,187,NA
+"911","Barr Faughny","New Zealand","Smooth Sliky Salty","25-Jan-22",NA,169,NA
+"912","Ches Bonnell","UK","85% Dark Bars","28-Jun-22",NA,12,NA
+"913","Dennison Crosswaite","Australia","Drinking Coco","13-Jul-22",NA,194,NA
+"914","Roddy Speechley","USA","Milk Bars","16-May-22",NA,252,NA
+"915","Jan Morforth","India","After Nines","14-Mar-22",NA,168,NA
+"916","Gunar Cockshoot","USA","After Nines","15-Aug-22",NA,261,NA
+"917","Ches Bonnell","India","Orange Choco","16-Feb-22",NA,256,NA
+"918","Mallorie Waber","UK","Manuka Honey Choco","15-Jun-22",NA,43,NA
+"919","Barr Faughny","Australia","Raspberry Choco","27-May-22",NA,100,NA
+"920","Wilone O'Kielt","USA","Drinking Coco","14-Jun-22",NA,98,NA
+"921","Wilone O'Kielt","India","Eclairs","25-Feb-22",NA,76,NA
+"922","Wilone O'Kielt","India","After Nines","04-Aug-22",NA,262,NA
+"923","Kelci Walkden","India","99% Dark & Pure","28-Jun-22",NA,244,NA
+"924","Gunar Cockshoot","Canada","Spicy Special Slims","05-Apr-22",NA,12,NA
+"925","Madelene Upcott","Canada","Peanut Butter Cubes","05-Jul-22",NA,113,NA
+"926","Kaine Padly","New Zealand","Eclairs","20-Jan-22",NA,48,NA
+"927","Ches Bonnell","New Zealand","Drinking Coco","16-Feb-22",NA,131,NA
+"928","Curtice Advani","UK","Drinking Coco","12-Jul-22",455,174,79170
+"929","Kelci Walkden","India","Raspberry Choco","16-Jun-22",NA,254,NA
+"930","Dotty Strutley","Australia","Choco Coated Almonds","13-Apr-22",NA,284,NA
+"931","Kaine Padly","UK","50% Dark Bites","21-Feb-22",NA,67,NA
+"932","Roddy Speechley","Canada","Choco Coated Almonds","11-May-22",NA,249,NA
+"933","Ches Bonnell","India","50% Dark Bites","15-Apr-22",NA,313,NA
+"934","Oby Sorrel","Canada","Peanut Butter Cubes","07-Jun-22",NA,167,NA
+"935","Oby Sorrel","UK","White Choc","27-Jun-22",NA,286,NA
+"936","Barr Faughny","India","After Nines","29-Jul-22",NA,109,NA
+"937","Wilone O'Kielt","Canada","Smooth Sliky Salty","02-Jun-22",NA,166,NA
+"938","Rafaelita Blaksland","India","Mint Chip Choco","26-Jan-22",NA,85,NA
+"939","Rafaelita Blaksland","Canada","99% Dark & Pure","02-Mar-22",NA,142,NA
+"940","Van Tuxwell","Australia","70% Dark Bites","10-Jan-22",NA,104,NA
+"941","Beverie Moffet","USA","70% Dark Bites","27-Jun-22",NA,115,NA
+"942","Barr Faughny","Canada","Orange Choco","30-Jun-22",NA,18,NA
+"943","Roddy Speechley","Australia","85% Dark Bars","08-Jul-22",NA,80,NA
+"944","Oby Sorrel","India","Spicy Special Slims","08-Jun-22",NA,88,NA
+"945","Jan Morforth","UK","Manuka Honey Choco","18-Aug-22",NA,212,NA
+"946","Kaine Padly","Australia","After Nines","08-Apr-22",NA,306,NA
+"947","Wilone O'Kielt","Canada","Fruit & Nut Bars","08-Aug-22",NA,181,NA
+"948","Wilone O'Kielt","UK","Milk Bars","26-Aug-22",301,65,19565
+"949","Oby Sorrel","Canada","Fruit & Nut Bars","14-Jan-22",NA,158,NA
+"950","Dennison Crosswaite","USA","Baker's Choco Chips","11-Aug-22",NA,271,NA
+"951","Madelene Upcott","USA","Almond Choco","31-May-22",NA,24,NA
+"952","Van Tuxwell","New Zealand","50% Dark Bites","11-Jul-22",NA,10,NA
+"953","Karlen McCaffrey","Canada","Caramel Stuffed Bars","02-Mar-22",NA,304,NA
+"954","Madelene Upcott","Australia","Raspberry Choco","13-Jul-22",NA,88,NA
+"955","Rafaelita Blaksland","UK","Spicy Special Slims","03-Aug-22",NA,133,NA
+"956","Curtice Advani","UK","Peanut Butter Cubes","01-Mar-22",NA,165,NA
+"957","Kelci Walkden","New Zealand","White Choc","13-Apr-22",NA,150,NA
+"958","Beverie Moffet","Canada","Fruit & Nut Bars","14-Feb-22",NA,180,NA
+"959","Mallorie Waber","India","White Choc","26-Jul-22",819,213,174447
+"960","Brien Boise","UK","Drinking Coco","27-Jan-22",NA,133,NA
+"961","Jehu Rudeforth","India","Peanut Butter Cubes","14-Apr-22",28,446,12488
+"962","Oby Sorrel","USA","Almond Choco","19-May-22",NA,141,NA
+"963","Husein Augar","India","Eclairs","09-Feb-22",NA,58,NA
+"964","Brien Boise","UK","Spicy Special Slims","25-May-22",NA,58,NA
+"965","Oby Sorrel","Australia","Manuka Honey Choco","26-Jan-22",NA,76,NA
+"966","Beverie Moffet","India","White Choc","04-Jul-22",NA,296,NA
+"967","Ches Bonnell","India","Almond Choco","13-Apr-22",NA,73,NA
+"968","Gigi Bohling","Australia","Smooth Sliky Salty","25-Jan-22",NA,119,NA
+"969","Camilla Castle","USA","85% Dark Bars","25-Apr-22",NA,78,NA
+"970","Camilla Castle","USA","Eclairs","10-Jun-22",NA,392,NA
+"971","Madelene Upcott","New Zealand","White Choc","22-Aug-22",NA,51,NA
+"972","Van Tuxwell","India","After Nines","27-Jun-22",NA,207,NA
+"973","Husein Augar","India","Orange Choco","30-Jun-22",NA,40,NA
+"974","Jehu Rudeforth","India","Almond Choco","30-Aug-22",NA,100,NA
+"975","Karlen McCaffrey","Australia","Raspberry Choco","23-Aug-22",994,57,56658
+"976","Camilla Castle","New Zealand","99% Dark & Pure","26-Aug-22",NA,42,NA
+"977","Gigi Bohling","Australia","Orange Choco","09-Mar-22",574,156,89544
+"978","Kelci Walkden","UK","Drinking Coco","20-Apr-22",NA,23,NA
+"979","Mallorie Waber","Canada","Caramel Stuffed Bars","10-Jun-22",NA,539,NA
+"980","Husein Augar","Australia","Organic Choco Syrup","08-Feb-22",938,158,148204
+"981","Brien Boise","Australia","White Choc","25-Aug-22",NA,22,NA
+"982","Dotty Strutley","India","Peanut Butter Cubes","16-Feb-22",NA,73,NA
+"983","Dennison Crosswaite","UK","99% Dark & Pure","30-May-22",NA,27,NA
+"984","Gigi Bohling","New Zealand","50% Dark Bites","29-Jun-22",NA,64,NA
+"985","Gigi Bohling","USA","Milk Bars","16-Jun-22",476,133,63308
+"986","Brien Boise","UK","Caramel Stuffed Bars","04-Mar-22",NA,149,NA
+"987","Curtice Advani","New Zealand","Peanut Butter Cubes","15-Mar-22",NA,434,NA
+"988","Curtice Advani","New Zealand","50% Dark Bites","27-Jan-22",NA,85,NA
+"989","Beverie Moffet","Canada","Drinking Coco","05-Jul-22",994,118,117292
+"990","Barr Faughny","USA","Caramel Stuffed Bars","29-Mar-22",NA,299,NA
+"991","Mallorie Waber","Canada","Almond Choco","12-May-22",NA,35,NA
+"992","Oby Sorrel","USA","Drinking Coco","11-Mar-22",NA,44,NA
+"993","Brien Boise","New Zealand","Eclairs","11-Jul-22",NA,299,NA
+"994","Gunar Cockshoot","New Zealand","Choco Coated Almonds","01-Aug-22",NA,62,NA
+"995","Gunar Cockshoot","UK","Spicy Special Slims","16-Feb-22",NA,200,NA
+"996","Curtice Advani","USA","After Nines","13-Apr-22",NA,235,NA
+"997","Oby Sorrel","India","Choco Coated Almonds","14-Feb-22",49,363,17787
+"998","Ches Bonnell","Australia","Peanut Butter Cubes","14-Mar-22",NA,68,NA
+"999","Oby Sorrel","Australia","Spicy Special Slims","26-Apr-22",NA,26,NA
+"1000","Jehu Rudeforth","Canada","Manuka Honey Choco","05-Apr-22",NA,200,NA
+"1001","Camilla Castle","Canada","Drinking Coco","03-Mar-22",NA,264,NA
+"1002","Kaine Padly","USA","Spicy Special Slims","13-Jun-22",NA,175,NA
+"1003","Marney O'Breen","New Zealand","70% Dark Bites","14-Feb-22",NA,352,NA
+"1004","Roddy Speechley","New Zealand","99% Dark & Pure","18-Apr-22",NA,183,NA
+"1005","Oby Sorrel","New Zealand","85% Dark Bars","01-Feb-22",NA,417,NA
+"1006","Dotty Strutley","New Zealand","Orange Choco","04-Aug-22",NA,146,NA
+"1007","Andria Kimpton","New Zealand","Almond Choco","05-Apr-22",NA,158,NA
+"1008","Karlen McCaffrey","Australia","99% Dark & Pure","26-Jan-22",NA,168,NA
+"1009","Kaine Padly","UK","After Nines","21-Jan-22",NA,176,NA
+"1010","Kaine Padly","Canada","After Nines","22-Aug-22",NA,172,NA
+"1011","Kaine Padly","UK","Drinking Coco","27-Jan-22",NA,224,NA
+"1012","Rafaelita Blaksland","UK","50% Dark Bites","16-Feb-22",NA,68,NA
+"1013","Dotty Strutley","USA","Raspberry Choco","03-Jan-22",NA,46,NA
+"1014","Karlen McCaffrey","USA","White Choc","24-Aug-22",NA,2,NA
+"1015","Oby Sorrel","USA","Spicy Special Slims","07-Feb-22",NA,417,NA
+"1016","Mallorie Waber","Australia","Smooth Sliky Salty","11-Feb-22",NA,109,NA
+"1017","Kaine Padly","Canada","Organic Choco Syrup","29-Mar-22",NA,81,NA
+"1018","Marney O'Breen","USA","Peanut Butter Cubes","15-Jun-22",693,350,242550
+"1019","Dennison Crosswaite","UK","Smooth Sliky Salty","26-Apr-22",546,142,77532
+"1020","Brien Boise","Australia","Organic Choco Syrup","15-Jul-22",NA,264,NA
+"1021","Beverie Moffet","India","Organic Choco Syrup","23-Jun-22",NA,20,NA
+"1022","Dennison Crosswaite","Australia","Baker's Choco Chips","11-Jan-22",NA,421,NA
+"1023","Beverie Moffet","UK","50% Dark Bites","09-Feb-22",NA,271,NA
+"1024","Van Tuxwell","UK","Almond Choco","06-Jun-22",NA,204,NA
+"1025","Dotty Strutley","UK","Caramel Stuffed Bars","10-Aug-22",NA,235,NA
+"1026","Wilone O'Kielt","Australia","Smooth Sliky Salty","04-Jan-22",NA,46,NA
+"1027","Andria Kimpton","Canada","70% Dark Bites","08-Apr-22",NA,15,NA
+"1028","Barr Faughny","UK","Milk Bars","02-Mar-22",NA,430,NA
+"1029","Van Tuxwell","Canada","Drinking Coco","15-Jun-22",NA,709,NA
+"1030","Jehu Rudeforth","Australia","After Nines","14-Feb-22",NA,47,NA
+"1031","Husein Augar","UK","After Nines","05-Jul-22",NA,380,NA
+"1032","Barr Faughny","India","Mint Chip Choco","12-Jan-22",NA,465,NA
+"1033","Curtice Advani","India","Mint Chip Choco","03-Mar-22",NA,96,NA
+"1034","Jehu Rudeforth","New Zealand","Milk Bars","18-May-22",NA,188,NA
+"1035","Gunar Cockshoot","India","Caramel Stuffed Bars","28-Jul-22",NA,202,NA
+"1036","Curtice Advani","UK","Manuka Honey Choco","07-Feb-22",NA,106,NA
+"1037","Andria Kimpton","India","Orange Choco","30-May-22",301,421,126721
+"1038","Mallorie Waber","Australia","Raspberry Choco","25-Apr-22",NA,27,NA
+"1039","Beverie Moffet","Canada","85% Dark Bars","16-Feb-22",NA,45,NA
+"1040","Kelci Walkden","Australia","Drinking Coco","04-May-22",NA,60,NA
+"1041","Van Tuxwell","Canada","70% Dark Bites","02-Jun-22",NA,77,NA
+"1042","Dennison Crosswaite","USA","Caramel Stuffed Bars","11-Jul-22",NA,464,NA
+"1043","Beverie Moffet","New Zealand","Spicy Special Slims","07-Jun-22",63,60,3780
+"1044","Jan Morforth","UK","Almond Choco","06-Jul-22",NA,157,NA
+"1045","Husein Augar","India","Raspberry Choco","15-Jun-22",NA,154,NA
+"1046","Dotty Strutley","India","Mint Chip Choco","14-Apr-22",NA,239,NA
+"1047","Camilla Castle","India","Drinking Coco","08-Aug-22",469,163,76447
+"1048","Marney O'Breen","UK","Drinking Coco","29-Mar-22",973,28,27244
+"1049","Roddy Speechley","Australia","Organic Choco Syrup","04-Jul-22",NA,76,NA
+"1050","Ches Bonnell","India","99% Dark & Pure","16-Feb-22",455,96,43680
+"1051","Rafaelita Blaksland","Canada","Spicy Special Slims","02-May-22",NA,156,NA
+"1052","Van Tuxwell","India","Eclairs","21-Jul-22",NA,106,NA
+"1053","Gunar Cockshoot","Australia","99% Dark & Pure","18-Aug-22",NA,235,NA
+"1054","Kaine Padly","USA","85% Dark Bars","22-Jun-22",483,259,125097
+"1055","Camilla Castle","UK","Peanut Butter Cubes","19-Jul-22",NA,126,NA
+"1056","Madelene Upcott","UK","Peanut Butter Cubes","12-Aug-22",NA,85,NA
+"1057","Madelene Upcott","USA","Choco Coated Almonds","07-Jun-22",NA,132,NA
+"1058","Marney O'Breen","Canada","Peanut Butter Cubes","08-Mar-22",NA,91,NA
+"1059","Ches Bonnell","Australia","Choco Coated Almonds","08-Apr-22",NA,167,NA
+"1060","Curtice Advani","Canada","Eclairs","06-May-22",721,203,146363
+"1061","Roddy Speechley","India","Drinking Coco","31-May-22",NA,11,NA
+"1062","Van Tuxwell","Australia","Mint Chip Choco","13-Jan-22",NA,295,NA
+"1063","Dennison Crosswaite","USA","70% Dark Bites","15-Mar-22",658,77,50666
+"1064","Andria Kimpton","Canada","Peanut Butter Cubes","16-Feb-22",NA,319,NA
+"1065","Gigi Bohling","USA","70% Dark Bites","14-Jan-22",NA,196,NA
+"1066","Rafaelita Blaksland","Australia","White Choc","21-Mar-22",NA,102,NA
+"1067","Roddy Speechley","Canada","Drinking Coco","17-May-22",NA,312,NA
+"1068","Camilla Castle","New Zealand","85% Dark Bars","08-Aug-22",NA,55,NA
+"1069","Madelene Upcott","Canada","Milk Bars","26-Apr-22",NA,82,NA
+"1070","Madelene Upcott","Australia","70% Dark Bites","15-Apr-22",NA,260,NA
+"1071","Oby Sorrel","Canada","Eclairs","19-May-22",NA,591,NA
+"1072","Dennison Crosswaite","Canada","Drinking Coco","10-Jan-22",NA,24,NA
+"1073","Mallorie Waber","New Zealand","After Nines","04-May-22",483,228,110124
+"1074","Roddy Speechley","Canada","White Choc","05-Apr-22",NA,268,NA
+"1075","Andria Kimpton","India","After Nines","17-Jan-22",952,68,64736
+"1076","Roddy Speechley","India","Spicy Special Slims","22-Mar-22",NA,173,NA
+"1077","Dotty Strutley","Australia","White Choc","05-Jul-22",NA,93,NA
+"1078","Oby Sorrel","Canada","Orange Choco","27-Apr-22",NA,338,NA
+"1079","Kaine Padly","Canada","Almond Choco","12-Aug-22",NA,73,NA
+"1080","Jan Morforth","UK","Baker's Choco Chips","11-Mar-22",721,251,180971
+"1081","Jehu Rudeforth","UK","Fruit & Nut Bars","13-May-22",NA,229,NA
+"1082","Dennison Crosswaite","USA","Smooth Sliky Salty","12-May-22",NA,91,NA
+"1083","Brien Boise","USA","Raspberry Choco","12-Jan-22",672,194,130368
+"1084","Madelene Upcott","New Zealand","Milk Bars","29-Mar-22",NA,403,NA
+"1085","Roddy Speechley","India","50% Dark Bites","14-Mar-22",NA,12,NA
+"1086","Barr Faughny","New Zealand","99% Dark & Pure","24-May-22",NA,195,NA
+"1087","Dennison Crosswaite","Canada","Organic Choco Syrup","28-Jan-22",NA,75,NA
+"1088","Beverie Moffet","India","Almond Choco","24-May-22",NA,96,NA
+"1089","Brien Boise","Australia","Peanut Butter Cubes","19-Aug-22",301,205,61705
+"1090","Karlen McCaffrey","Australia","Spicy Special Slims","17-May-22",NA,323,NA
+"1091","Jehu Rudeforth","USA","White Choc","07-Jun-22",NA,119,NA
+"1092","Ches Bonnell","Canada","Organic Choco Syrup","26-Jul-22",574,217,124558
+"1093","Dotty Strutley","India","Eclairs","28-Jul-22",NA,384,NA
+"1094","Karlen McCaffrey","India","70% Dark Bites","23-May-22",NA,344,NA
